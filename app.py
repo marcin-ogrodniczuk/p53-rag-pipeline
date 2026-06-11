@@ -8,7 +8,7 @@ import streamlit as st
 import config
 import rag
 
-st.set_page_config(page_title="p53 RAG", page_icon="🧬", layout="wide")
+st.set_page_config(page_title="p53 RAG", layout="wide")
 st.title("🧬 p53 Tumor Suppressor — Literature Q&A")
 st.caption(
     f"Retrieval-augmented over 100 PubMed abstracts · "
