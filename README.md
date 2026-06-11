@@ -1,8 +1,7 @@
 # p53 Tumor Suppressor — Local RAG Pipeline
 
 A fully local retrieval-augmented generation (RAG) system over 100 PubMed papers on
-the **p53 tumor suppressor**. Embeddings and generation both run on **Ollama** — no
-data leaves your machine and no API keys are required.
+the **p53 tumor suppressor**. Embeddings and generation both run on **Ollama**.
 
 ## Architecture
 
