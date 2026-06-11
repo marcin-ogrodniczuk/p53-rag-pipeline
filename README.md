@@ -22,7 +22,7 @@ PubMed (Entrez E-utilities)
 
 ## Prerequisites
 
-- [Ollama](https://ollama.com) installed and running (`ollama serve` happens automatically on macOS).
+- [Ollama](https://ollama.com) installed and running
 - Python 3.10+.
 
 Pull the two models (once):
@@ -77,5 +77,4 @@ All knobs live in `config.py`:
   point the ingest at those XML/PDF files instead.
 - Answers are grounded: the model is instructed to answer only from retrieved context
   and to cite `[PMID]` tags. It will say when the context doesn't cover a question.
-- Re-running `build_index.py` rebuilds the collection from scratch.
 ```
