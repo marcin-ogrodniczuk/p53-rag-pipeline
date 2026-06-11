@@ -1,9 +1,9 @@
-#p53 Tumor Suppressor — Local RAG Pipeline
+p53 Tumor Suppressor — Local RAG Pipeline
 
 A fully local retrieval-augmented generation (RAG) system over 100 PubMed papers on
 the **p53 tumor suppressor**. Embeddings and generation both run on **Ollama**.
 
-## Architecture
+Architecture
 
 ```
 PubMed (Entrez E-utilities)
@@ -20,7 +20,7 @@ PubMed (Entrez E-utilities)
    cli.py  /  app.py (Streamlit chat)
 ```
 
-## Prerequisites
+Prerequisites
 
 - [Ollama](https://ollama.com) installed and running
 - Python 3.10+.
@@ -38,7 +38,7 @@ Install Python deps:
 pip install -r requirements.txt
 ```
 
-## Usage
+Usage
 
 Run these from inside the `p53_rag/` directory, in order:
 
@@ -56,7 +56,7 @@ python cli.py "How does p53 trigger apoptosis after DNA damage?"
 streamlit run app.py
 ```
 
-## Configuration
+Configuration
 
 All knobs live in `config.py`:
 
