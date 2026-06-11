@@ -9,7 +9,7 @@ import config
 import rag
 
 st.set_page_config(page_title="p53 RAG", layout="wide")
-st.title("🧬 p53 Tumor Suppressor — Literature Q&A")
+st.title("p53 Tumor Suppressor — Literature Q&A")
 st.caption(
     f"Retrieval-augmented over 100 PubMed abstracts · "
     f"embeddings: `{config.EMBED_MODEL}` · chat: `{config.CHAT_MODEL}` · all local via Ollama"
