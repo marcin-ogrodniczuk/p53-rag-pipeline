@@ -70,7 +70,7 @@ All knobs live in `config.py`:
 | `TOP_K` | `5` | Chunks retrieved per query |
 | `NCBI_API_KEY` | `""` | Optional — raises PubMed rate limit |
 
-## Notes
+ Notes
 
 - This indexes **abstracts**, which are reliably available for all 100 papers. To use
   full text, you'd fetch the PubMed Central open-access subset (a subset of papers) and
