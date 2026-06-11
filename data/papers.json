@@ -1,0 +1,1459 @@
+[
+  {
+    "pmid": "12826609",
+    "title": "Understanding the function-structure and function-mutation relationships of p53 tumor suppressor protein by high-resolution missense mutation analysis.",
+    "abstract": "Inactivation of the tumor suppressor p53 by missense mutations is the most frequent genetic alteration in human cancers. The common missense mutations in the TP53 gene disrupt the ability of p53 to bind to DNA and consequently to transactivate downstream genes. However, it is still not fully understood how a large number of the remaining mutations affect p53 structure and function. Here, we used a comprehensive site-directed mutagenesis technique and a yeast-based functional assay to construct, express, and evaluate 2,314 p53 mutants representing all possible amino acid substitutions caused by a point mutation throughout the protein (5.9 substitutions per residue), and correlated p53 function with structure- and tumor-derived mutations. This high-resolution mutation analysis allows evaluation of previous predictions and hypotheses through interrelation of function, structure and mutation.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": "2003",
+    "authors": [
+      "Kato S",
+      "Han SY",
+      "Liu W",
+      "Otsuka K",
+      "Shibata H",
+      "Kanamaru R",
+      "Ishioka C"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12826609/"
+  },
+  {
+    "pmid": "28886379",
+    "title": "Putting p53 in Context.",
+    "abstract": "TP53 is the most frequently mutated gene in human cancer. Functionally, p53 is activated by a host of stress stimuli and, in turn, governs an exquisitely complex anti-proliferative transcriptional program that touches upon a bewildering array of biological responses. Despite the many unveiled facets of the p53 network, a clear appreciation of how and in what contexts p53 exerts its diverse effects remains unclear. How can we interpret p53's disparate activities and the consequences of its dysfunction to understand how cell type, mutation profile, and epigenetic cell state dictate outcomes, and how might we restore its tumor-suppressive activities in cancer?",
+    "journal": "Cell",
+    "year": "2017",
+    "authors": [
+      "Kastenhuber ER",
+      "Lowe SW"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28886379/"
+  },
+  {
+    "pmid": "36766853",
+    "title": "The Role of TP53 in Adaptation and Evolution.",
+    "abstract": "The TP53 gene is a major player in cancer formation, and it is considered the most important tumor suppressor gene. The p53 protein acts as a transcription factor, and it is involved in DNA repair, senescence, cell-cycle control, autophagy, and apoptosis. Beyond cancer, there is evidence that TP53 is associated with fertility, aging, and longevity. Additionally, more evidence exists that genetic variants in TP53 are associated with environmental adaptation. Special TP53 amino-acid residues or pathogenic TP53 mutations seem to be adaptive for animals living in hypoxic and cold environments or having been exposed to starvation, respectively. At the somatic level, it has recently been proven that multiple cancer genes, including TP53, are under positive selection in healthy human tissues. It is not clear why these driver mutations do not transform these tissues into cancerous ones. Other studies have shown that elephants have multiple TP53 copies, probably this being the reason for the very low cancer incidence in these large animals. This may explain the famous Peto's paradox. This review discusses in detail the multilevel role of TP53 in adaptation, according to the published evidence. This role is complicated, and it extends from cells to individuals and to populations.",
+    "journal": "Cells",
+    "year": "2023",
+    "authors": [
+      "Voskarides K",
+      "Giannopoulou N"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36766853/"
+  },
+  {
+    "pmid": "8023157",
+    "title": "Crystal structure of a p53 tumor suppressor-DNA complex: understanding tumorigenic mutations.",
+    "abstract": "Mutations in the p53 tumor suppressor are the most frequently observed genetic alterations in human cancer. The majority of the mutations occur in the core domain which contains the sequence-specific DNA binding activity of the p53 protein (residues 102-292), and they result in loss of DNA binding. The crystal structure of a complex containing the core domain of human p53 and a DNA binding site has been determined at 2.2 angstroms resolution and refined to a crystallographic R factor of 20.5 percent. The core domain structure consists of a beta sandwich that serves as a scaffold for two large loops and a loop-sheet-helix motif. The two loops, which are held together in part by a tetrahedrally coordinated zinc atom, and the loop-sheet-helix motif form the DNA binding surface of p53. Residues from the loop-sheet-helix motif interact in the major groove of the DNA, while an arginine from one of the two large loops interacts in the minor groove. The loops and the loop-sheet-helix motif consist of the conserved regions of the core domain and contain the majority of the p53 mutations identified in tumors. The structure supports the hypothesis that DNA binding is critical for the biological activity of p53, and provides a framework for understanding how mutations inactivate it.",
+    "journal": "Science (New York, N.Y.)",
+    "year": "1994",
+    "authors": [
+      "Cho Y",
+      "Gorina S",
+      "Jeffrey PD",
+      "Pavletich NP"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8023157/"
+  },
+  {
+    "pmid": "31589320",
+    "title": "Modeling Breast Cancer Using CRISPR-Cas9-Mediated Engineering of Human Breast Organoids.",
+    "abstract": "Breast cancer is characterized by histological and functional heterogeneity, posing a clinical challenge for patient treatment. Emerging evidence suggests that the distinct subtypes reflect the repertoire of genetic alterations and the target cell. However, the precise initiating events that predispose normal epithelium to neoplasia are poorly understood. Here, we demonstrate that breast epithelial organoids can be generated from human reduction mammoplasties (12 out of 12 donors), thus creating a tool to study the clonal evolution of breast cancer. To recapitulate de novo oncogenesis, we exploited clustered regularly interspaced short palindromic repeats (CRISPR)-Cas9 for targeted knockout of four breast cancer-associated tumor suppressor genes (P53, PTEN, RB1, NF1) in mammary progenitor cells from six donors. Mutant organoids gained long-term culturing capacity and formed estrogen-receptor positive luminal tumors on transplantation into mice for one out of six P53/PTEN/RB1-mutated and three out of six P53/PTEN/RB1/NF1-mutated lines. These organoids responded to endocrine therapy or chemotherapy, supporting the potential utility of this model to enhance our understanding of the molecular events that culminate in specific subtypes of breast cancer.",
+    "journal": "Journal of the National Cancer Institute",
+    "year": "2020",
+    "authors": [
+      "Dekkers JF",
+      "Whittle JR",
+      "Vaillant F",
+      "Chen HR",
+      "Dawson C",
+      "Liu K",
+      "Geurts MH",
+      "Herold MJ",
+      "Clevers H",
+      "Lindeman GJ",
+      "Visvader JE"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31589320/"
+  },
+  {
+    "pmid": "18289041",
+    "title": "p53 Family isoforms.",
+    "abstract": "p63, p73 and p53 are transcription factors members of the p53 gene family involved in development, differentiation and cell response to stress. p53 gene is mutated in 50% of human cancer. Moreover, when p53 gene is not mutated then its tumour suppressor pathway is lost through interaction with abnormally expressed cellular protein or viral protein. Therefore p53 pathway inactivation is a common denominator to cancer. However, it is still difficult to associate in the clinic p53 status to cancer prognosis and diagnosis. Recent publications may have a profound impact on our understanding of p53 tumour suppressor activity. p63, p73 and p53 genes have a dual gene structure conserved in drosophila, zebrafish and man. They encode for multiple p63, p73 or p53 proteins containing different protein domains (isoforms) due to multiple splicing, alternative promoter and alternative initiation of translation. The interplay between p53, p63 and p73 isoforms are likely to be fundamental to our understanding of tumour formation.",
+    "journal": "Current pharmaceutical biotechnology",
+    "year": "2007",
+    "authors": [
+      "Bourdon JC"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18289041/"
+  },
+  {
+    "pmid": "15334538",
+    "title": "Human tumor suppressor p53 and DNA viruses.",
+    "abstract": "Human tumor suppressor protein p53 plays a major role in the cell cycle, orchestrating a number of important genes involved in cell-cycle control and apoptosis, and seems to be one of the most important molecules protecting cells from malignant transformation. Mutations in the p53 gene are observed in about 50% of primary tumors, inducing defective p53 protein no longer capable of binding DNA and of activating transcription. Certain DNA viruses are thought to act in a similar way and may also contribute to the progression of invasive cancer in infected tissue. One of the most effective strategies employed by these viruses is the inhibition of p53 protein by interaction with viral oncoproteins, implying a direct but also an indirect role of these viruses in the impairment of p53 structure and function. This article provides a summary of current knowledge concerning p53 tumor suppressor protein and reviews the different mechanisms adopted by different DNA viruses in undermining p53 function.",
+    "journal": "Reviews in medical virology",
+    "year": "2004",
+    "authors": [
+      "Collot-Teixeira S",
+      "Bass J",
+      "Denis F",
+      "Ranger-Rogez S"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15334538/"
+  },
+  {
+    "pmid": "21814038",
+    "title": "Transcriptional and epigenetic regulation of the p53 tumor suppressor gene.",
+    "abstract": "The p53 tumor suppressor is one of the most studied molecules in cancer research. Despite the fact that there is a detailed understanding involving multiple aspects of the p53-associated biology, many aspects of its transcriptional regulation are still not well clarified. Limited information is available on how the p53 gene is transcriptional and epigenetically regulated. The p53 gene expression is tightly controlled through a variety of transcription factors, miRNAs, its anti-sense RNA Wrap53, the insulator protein CTCF and very likely by other genetic and epigenetic mechanisms. It's the intent of this article to review in depth important aspects concerning the transcriptional regulation of the p53 gene and perhaps serve as a stepping-stone to begin a conceptual change on how future p53 research can be approached.",
+    "journal": "Epigenetics",
+    "year": "2011",
+    "authors": [
+      "Saldaña-Meyer R",
+      "Recillas-Targa F"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21814038/"
+  },
+  {
+    "pmid": "8453275",
+    "title": "Tumor-suppressor p53 and the cell cycle.",
+    "abstract": "The p53 tumor suppressor is a transcription factor that can activate the expression of some genes and repress the transcription of others. The protein appears to be dispensable for normal murine development, although mice lacking p53 develop tumors at an early age and their fibroblasts are genetically unstable in culture. Human and murine cells lacking wild-type p53 loose the ability to arrest in the G1 phase of the cell cycle in response to gamma-irradiation. Therefore, p53 may be a cell-cycle checkpoint protein that regulates the cycle under adverse conditions.",
+    "journal": "Current opinion in genetics & development",
+    "year": "1993",
+    "authors": [
+      "Perry ME",
+      "Levine AJ"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8453275/"
+  },
+  {
+    "pmid": "10911910",
+    "title": "The p53 tumor suppressor gene: from molecular biology to clinical investigation.",
+    "abstract": "The tumor suppressor p53 is a phosphoprotein barely detectable in the nucleus of normal cells. Upon cellular stress, particularly that induced by DNA damage, p53 can arrest cell cycle progression, thus allowing the DNA to be repaired; or it can lead to apoptosis. These functions are achieved, in part, by the transactivational properties of p53, which activate a series of genes involved in cell cycle regulation. In cancer cells bearing a mutant p53, this protein is no longer able to control cell proliferation, resulting in inefficient DNA repair and the emergence of genetically unstable cells. The most common changes of p53 in human cancers are point missense mutations within the coding sequences of the gene. Such mutations are found in all major histogenetic groups, including cancers of the colon (60%), stomach (60%), breast (20%), lung (70%), brain (40%), and esophagus (60%). It is estimated that p53 mutations are the most frequent genetic event in human cancers, accounting for more than 50% of cases. One of the most striking features of the inactive mutant p53 protein is its increased stability (half-life of several hours, compared to 20 min for wild-type p53) and its accumulation in the nucleus of neoplastic cells. Therefore, positive immunostaining is indicative of abnormalities of the p53 gene and its product. Several studies have shown that p53 mutations are associated with short survival in colorectal cancer, but the use of p53 as a tumoral marker is still a matter of debate.",
+    "journal": "Annals of the New York Academy of Sciences",
+    "year": "2000",
+    "authors": [
+      "Soussi T"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10911910/"
+  },
+  {
+    "pmid": "11747320",
+    "title": "Activation and activities of the p53 tumour suppressor protein.",
+    "abstract": "The p53 tumour suppressor protein inhibits malignant progression by mediating cell cycle arrest, apoptosis or repair following cellular stress. One of the major regulators of p53 function is the MDM2 protein, and multiple forms of cellular stress activate p53 by inhibiting the MDM2-mediated degradation of p53. Mutations in p53, or disruption of the pathways that allow activation of p53, seem to be a general feature of all cancers. Here we review recent advances in our understanding of the pathways that regulate p53 and the pathways that are induced by p53, as well as their implications for cancer therapy.",
+    "journal": "British journal of cancer",
+    "year": "2001",
+    "authors": [
+      "Bálint E E",
+      "Vousden KH"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11747320/"
+  },
+  {
+    "pmid": "35414774",
+    "title": "Mutant p53 achieved Gain-of-Function by promoting tumor growth and immune escape through PHLPP2/AKT/PD-L1 pathway.",
+    "abstract": "The most frequent genetic alterations of the TP53 gene in human cancer were reported. TP53 mutation gains new function as a target of genetic instability, which is associated with increased tumor progression and poor survival rate in patients. In this study, more than three hundred colorectal cancer patients' samples were firstly analyzed, and the results showed that patients with mutant p53 had higher levels of AKT phosphorylation and PD-L1 expression, which were next verified both in cell lines in vitro and patients' samples in vivo. Further studies demonstrated that the hotspot of mutant p53 directly binds to the promoter of PHLPP2 to inhibit its transcription, and resulting in down-regulating its protein expressional level. Subsequently, AKT was released and activated, promoting tumor proliferation and metastasis. In parallel, 4EBP1/eIF4E was identified as downstream executors of AKT to enhance the translational level of PD-L1, which decreased the activation of T cells. Besides, inhibiting AKT/mTOR pathway significantly suppressed PD-L1 expression, tumor growth, and immune escape in p53 mutated cells. In conclusion, mutant p53 achieved its Gain-of-Function by transcriptionally inhibiting PHLPP2 and activating AKT, which suppresses immune response and advances tumor growth. Thus, this study provides an excellent basis for a further understanding of the clinical treatment of neoplastic diseases for patients with mutant p53, with an emphasis on immunotherapy.",
+    "journal": "International journal of biological sciences",
+    "year": "2022",
+    "authors": [
+      "Liu N",
+      "Jiang X",
+      "Guo L",
+      "Zhang C",
+      "Jiang M",
+      "Sun Z",
+      "Zhang Y",
+      "Mi W",
+      "Li J",
+      "Fu Y",
+      "Wang F",
+      "Zhang L",
+      "Zhang Y"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35414774/"
+  },
+  {
+    "pmid": "8665676",
+    "title": "Biological and clinical importance of the p53 tumor suppressor gene.",
+    "abstract": "The p53 tumor suppressor gene controls cellular growth after DNA damage through mechanisms involving growth arrest and apoptosis. Mutations that inactivate p53 occur commonly in virtually all human malignancies and can be detected by sequencing of the p53 gene, immunohistochemical staining of tumor tissue with anti-p53 antibodies, single-strand conformation polymorphisms, or other biological assays. Identification of p53 mutation in the germ line is diagnostic of the cancer-prone Li-Fraumeni syndrome. Alterations of the p53 gene result in defective cellular responses after DNA damage and predispose cells to dysregulated growth, tumor formation and progression, and potential resistance (of tumor cells) to certain chemotherapeutic agents or ionizing radiation. A variety of tumors involving mutant p53 have a worse prognosis than tumors of the same type containing no p53 mutations. New diagnostic and therapeutic strategies are evolving as the p53 pathways of cell-cycle arrest and apoptosis become elucidated.",
+    "journal": "Clinical chemistry",
+    "year": "1996",
+    "authors": [
+      "Velculescu VE",
+      "El-Deiry WS"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8665676/"
+  },
+  {
+    "pmid": "8296829",
+    "title": "The p53 tumor suppressor gene frequently is altered in gynecologic cancers.",
+    "abstract": "Mutation of the p53 tumor suppressor gene, often accompanied by overexpression of mutant p53 protein, is the most frequent molecular genetic event described thus far in human cancers. In adenocarcinomas of the ovary and endometrium, p53 overexpression is seen in approximately 10% to 15% of early and 40% to 50% of advanced cancers. Similar to many other types of human cancers, ovarian and endometrial cancers that overexpress p53 protein contain mutations in conserved regions of the p53 gene. These mutations are predominantly transitions, which suggests that they arise spontaneously rather than being caused by carcinogen exposure. Alteration of the p53 gene does not appear to be a feature of endometrial hyperplasias or benign or borderline ovarian tumors. Although mutation and overexpression of p53 rarely occur in cancers of the cervix, vulva, and vagina, it has been shown that human papillomavirus E6 oncoproteins bind to and inactivate p53 protein. Studies of the p53 gene have begun to provide insight into the molecular pathogenesis of gynecologic cancers.",
+    "journal": "American journal of obstetrics and gynecology",
+    "year": "1994",
+    "authors": [
+      "Berchuck A",
+      "Kohler MF",
+      "Marks JR",
+      "Wiseman R",
+      "Boyd J",
+      "Bast RC"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8296829/"
+  },
+  {
+    "pmid": "33546313",
+    "title": "Recent Advances in p53.",
+    "abstract": "Tumor suppressor protein p53 (TP53) is a key transcription factor that, in response to various stress signals, regulates numerous genes involved in a broad range of cellular functions including DNA repair, apoptosis, cell cycle arrest, senescence, metabolism, etc [...].",
+    "journal": "Biomolecules",
+    "year": "2021",
+    "authors": [
+      "D'Orazi G"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33546313/"
+  },
+  {
+    "pmid": "16138827",
+    "title": "Functional analysis of p53 tumor suppressor in yeast.",
+    "abstract": "The p53 tumor suppressor protein is a transcription factor that mediates the cell's response to various kinds of stress by preventing cell division and/or inducing apoptosis. p53 gene mutations have been detected in nearly 50% of human cancers. These gene aberrations are mostly missense point mutations located predominantly in the central DNA-binding domain. In addition to the classical inactivating mutations, there are also dominant-negative, gain-of-function, temperature-sensitive, and cold-sensitive, discriminating, superactive p53 mutations, and some mutations that do not inactivate p53 activity. Several approaches have been developed for detection and analyses of p53 mutations: first, immunochemical methods have been developed to detect p53 protein levels; second, molecular analyses targeting changes in DNA structure are utilized; and third, functional assays are used to explore the biological properties of the p53 protein. Functional analysis of separated alleles in yeast targets the transactivation capability of the p53 protein expressed in yeast cells. This method uses p53 mRNA isolated from cells and tissues to produce a p53 product by RT-PCR. This method has undergone continuous improvement and now serves as a powerful tool for distinguishing various functional types of p53 mutations. Understanding the exact impact of p53 mutation on its function is an important prerequisite for establishment of efficient anti-cancer therapies.",
+    "journal": "Differentiation; research in biological diversity",
+    "year": "2005",
+    "authors": [
+      "Smardová J",
+      "Smarda J",
+      "Koptíková J"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16138827/"
+  },
+  {
+    "pmid": "34362419",
+    "title": "Understanding p53 tumour suppressor network.",
+    "abstract": "The mutation of TP53 gene affects half of all human cancers, resulting in impairment of the regulation of several cellular functions, including cell cycle progression and cell death in response to genotoxic stress. In the recent years additional p53-mediated tumour suppression mechanisms have been described, questioning the contribution of its canonical pathway for tumour suppression. These include regulation of alternative cell death modalities (i.e. ferroptosis), cell metabolism and the emerging role in RNA stability. Here we briefly summarize our knowledge on p53 \"canonical DNA damage response\" and discuss the most relevant recent findings describing potential mechanistic explanation of p53-mediated tumour suppression.",
+    "journal": "Biology direct",
+    "year": "2021",
+    "authors": [
+      "Panatta E",
+      "Zampieri C",
+      "Melino G",
+      "Amelio I"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34362419/"
+  },
+  {
+    "pmid": "7554031",
+    "title": "Apoptosis, cancer and the p53 tumour suppressor gene.",
+    "abstract": "One of the most commonly detected abnormalities in human cancer is mutation of the p53 tumour suppressor gene. Intrinsic to the function of p53 is its ability to induce apoptotic cell death and to cause cell cycle arrest. Moreover, p53 plays an important role in controlling the cellular response to DNA damaging agents such as ionizing radiation and cancer chemotherapeutic drugs. Loss of p53 function causes increased resistance to radiation and chemotherapeutic agents, and there is increasing evidence that p53 mutational status is an important determinant of clinical outcome in cancer. This review will focus on recent data describing the biochemistry of p53 function, its role in mediating apoptosis and cell cycle arrest and in the control of tumour growth and death.",
+    "journal": "Cancer metastasis reviews",
+    "year": "1995",
+    "authors": [
+      "Lee JM",
+      "Bernstein A"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7554031/"
+  },
+  {
+    "pmid": "29891515",
+    "title": "The RASSF6 Tumor Suppressor Protein Regulates Apoptosis and Cell Cycle Progression via Retinoblastoma Protein.",
+    "abstract": "RASSF6 is a member of the tumor suppressor Ras association domain family (RASSF) proteins. RASSF6 is frequently suppressed in human cancers, and its low expression level is associated with poor prognosis. RASSF6 regulates cell cycle arrest and apoptosis and plays a tumor suppressor role. Mechanistically, RASSF6 blocks MDM2-mediated p53 degradation and enhances p53 expression. However, RASSF6 also induces cell cycle arrest and apoptosis in a p53-negative background, which implies that the tumor suppressor function of RASSF6 does not depend solely on p53. In this study, we revealed that RASSF6 mediates cell cycle arrest and apoptosis via pRb. RASSF6 enhances the interaction between pRb and protein phosphatase. RASSF6 also enhances P16INK4A and P14ARF expression by suppressing BMI1. In this way, RASSF6 increases unphosphorylated pRb and augments the interaction between pRb and E2F1. Moreover, RASSF6 induces TP73 target genes via pRb and E2F1 in a p53-negative background. Finally, we confirmed that RASSF6 depletion induces polyploid cells in p53-negative HCT116 cells. In conclusion, RASSF6 behaves as a tumor suppressor in cancers with loss of function of p53, and pRb is implicated in this function of RASSF6.",
+    "journal": "Molecular and cellular biology",
+    "year": "2018",
+    "authors": [
+      "Hossain S",
+      "Iwasa H",
+      "Sarkar A",
+      "Maruyama J",
+      "Arimoto-Matsuzaki K",
+      "Hata Y"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29891515/"
+  },
+  {
+    "pmid": "16751779",
+    "title": "Adenovirus-mediated p53 tumor suppressor gene therapy of osteosarcoma.",
+    "abstract": "The clinical outcome for osteosarcoma (OS) remains discouraging despite efforts to optimize treatment using conventional modalities including surgery, radiotherapy and chemotherapy. Novel therapeutic approaches based on our expanding understanding of the mechanisms of tumor cell killing have the potential to alter this situation. Tumor suppressor gene therapy aims to restore the function of a tumor suppressor gene lost or functionally inactivated in cancer cells. One such molecule, the p53 tumor suppressor gene plays a critical role in safeguarding the integrity of the genome and preventing tumorigenesis. Introduction of wild-type (wt) p53 into transformed cells has been shown to be lethal for most cancer cells in vitro, but clinical trials of p53 gene replacement have had limited success. Analysis of these clinical trials highlighted the insufficient efficacy of current vectors and low proapoptotic activity of wt p53 as a single agent in vivo. In this review, a contemporary summarization of the current status of adenovirus-mediated p53 gene therapy of OS is presented. Advancement in our understanding of p53 tumor suppressor activity, the molecular biology of chemoresistant OS, and recent advances in tumor targeting with adenoviral vectors are also addressed. Based on these parameters, prospects for future investigations are proposed.",
+    "journal": "Laboratory investigation; a journal of technical methods and pathology",
+    "year": "2006",
+    "authors": [
+      "Ternovoi VV",
+      "Curiel DT",
+      "Smith BF",
+      "Siegal GP"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16751779/"
+  },
+  {
+    "pmid": "34779563",
+    "title": "Adaptive homeostasis and the p53 isoform network.",
+    "abstract": "All living organisms have developed processes to sense and address environmental changes to maintain a stable internal state (homeostasis). When activated, the p53 tumour suppressor maintains cell and organ integrity and functions in response to homeostasis disruptors (stresses) such as infection, metabolic alterations and cellular damage. Thus, p53 plays a fundamental physiological role in maintaining organismal homeostasis. The TP53 gene encodes a network of proteins (p53 isoforms) with similar and distinct biochemical functions. The p53 network carries out multiple biological activities enabling cooperation between individual cells required for long-term survival of multicellular organisms (animals) in response to an ever-changing environment caused by mutation, infection, metabolic alteration or damage. In this review, we suggest that the p53 network has evolved as an adaptive response to pathogen infections and other environmental selection pressures.",
+    "journal": "EMBO reports",
+    "year": "2021",
+    "authors": [
+      "Mehta S",
+      "Campbell H",
+      "Drummond CJ",
+      "Li K",
+      "Murray K",
+      "Slatter T",
+      "Bourdon JC",
+      "Braithwaite AW"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34779563/"
+  },
+  {
+    "pmid": "1405928",
+    "title": "[Tumor suppressor genes: mutations in RB and p53 genes are significant carcinogenic factors].",
+    "abstract": "The RB and p53 tumour suppressor genes encode nuclear proteins that exert an inhibitive effect on cell growth. A large variety of human tumour types manifest loss or mutation of the RB or p53 genes, and p53 mutation is the commonest genetic alteration found in tumour cells. In addition, the RB and p53 proteins may be inactivated by complex formation with viral oncoproteins--for instance, in the case of cervical carcinoma carrying human papilloma virus. In vivo introduction of an intact RB or p53 gene into malignant cells lacking the respective gene results in suppression of the neoplastic phenotype and thus of tumourigenicity, p53 being the more potent of the two in this respect. Further elucidation of tumour suppressor genes may well result in future improvement in the diagnosis and treatment of cancer.",
+    "journal": "Lakartidningen",
+    "year": "1992",
+    "authors": [
+      "Wiman KG"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/1405928/"
+  },
+  {
+    "pmid": "7664481",
+    "title": "Clinical applications of the p53 tumor suppressor gene.",
+    "abstract": "The interest on the p53 gene has grown enormously in the last 4 years. It is now known that p53 is directly involved in important cellular functions including regulation of the cell cycle, and that its alteration may be one of the important steps in the initiation of cancer. In this review I will cover briefly basic and clinical aspects related to the p53 gene and protein and explore ways of using the accumulated knowledge for patient diagnosis and monitoring. The literature suggests that it is now appropriate to start assessing the p53 gene status of breast tumors for prognosis. Therapeutic options are at an infancy stage. A new diagnostic approach based on the immune response of cancer patients against mutant proteins is discussed, by using the p53 mutant protein as a model. Although the cancer patient has not as yet benefited directly from the enormous number of investigations on the p53 gene and protein, there is hope that in the long-term these studies will promote the understanding of cancer initiation and progression at the molecular level with a practical return at a later phase.",
+    "journal": "Clinica chimica acta; international journal of clinical chemistry",
+    "year": "1995",
+    "authors": [
+      "Diamandis EP"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7664481/"
+  },
+  {
+    "pmid": "9197475",
+    "title": "The role of p53 tumor suppressor gene in human head and neck tumorigenesis.",
+    "abstract": "Molecular genetics has led to new insights into diagnosis and treatment of human cancer. The alterations of tumor suppressor genes like retinoblastoma, p53 and others may have an important role in tumorigenesis. Mutations of p53 have been found in a majority of human malignancies including head and neck cancer. The distribution of p53 is different between types of tumors, suggesting environmental exposure as a cause active factor. The p53 mutation in head and neck tumors is an early event and appears to have a hot spot region at codons 238-248. While mutation and loss of heterozygosity at p53 are important in the genesis of head and neck cancer, other mechanisms such as binding of viral and cellular proteins to p53 are also likely to play a role.",
+    "journal": "Acta oto-laryngologica. Supplementum",
+    "year": "1997",
+    "authors": [
+      "Pavelic ZP",
+      "Gluckman JL"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9197475/"
+  },
+  {
+    "pmid": "8547404",
+    "title": "Cancer therapy and p53.",
+    "abstract": "Apoptosis is now recognized as an important process in tissue homeostasis. In malignancy, mutations in apoptotic programs may promote tumor progression as well as reduce the efficacy of cancer therapy. Recent studies identify the product of the p53 tumor-suppressor gene as an important regulator of apoptosis in tumor cells. At the same time, clinical studies implicate p53 mutations in pleiotropic resistance to cytotoxic cancer therapy. Together, these observations suggest that inactivation of p53 promotes resistance to anticancer agents by attenuating apoptosis. This view identifies p53 as a potential drug target and suggests several strategies for therapeutic intervention.",
+    "journal": "Current opinion in oncology",
+    "year": "1995",
+    "authors": [
+      "Lowe SW"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8547404/"
+  },
+  {
+    "pmid": "8224613",
+    "title": "Retinoblastoma and p53 tumor suppressor genes in human hepatoma cell lines.",
+    "abstract": "We analyzed the status of retinoblastoma and p53 genes in 10 human hepatoma cell lines. Polyclonal anti-peptide antibodies generated against peptides homologous to COOH-terminal and leucine-zipper domains of the retinoblastoma protein allowed us to identify two cell lines (Hep 3B and FOCUS) with abnormal expression. The same cell lines have both lacked p53 expression. In contrast to the retinoblastoma gene, the expression of the p53 gene was abnormal in six additional cell lines. Indeed, only the Hep G2 hepatoblastoma cell line (and its derivative Hep G2/2215) appeared to have normal p53 and retinoblastoma gene expression. Our studies indicate that p53 abnormalities are common but retinoblastoma gene aberrations are rare in human hepatoma cell lines.",
+    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+    "year": "1993",
+    "authors": [
+      "Puisieux A",
+      "Galvin K",
+      "Troalen F",
+      "Bressac B",
+      "Marcais C",
+      "Galun E",
+      "Ponchel F",
+      "Yakicier C",
+      "Ji J",
+      "Ozturk M"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8224613/"
+  },
+  {
+    "pmid": "7483675",
+    "title": "Analysis of p53 tumor suppressor gene mutations and human papillomavirus infection in human bladder cancers.",
+    "abstract": "To determine whether the dysfunction of p53 caused either by mutation of the p53 gene itself or by binding to E6 protein of oncogenic HPVs is involved in the transitional cell carcinomas (TCCs) of the bladder, we analyzed 23 TCCs of the bladder. DNA was extracted from each paraffin embedded tissue of TCCs of bladder and polymerase chain reaction (PCR)/single strand conformation polymorphism (SSCP) analysis were performed to screen mutations in p53 tumor suppressor gene, then PCR/dot blot hybridization were performed to detect infection of HPVs. We found that p53 gene mutation was found in 3 cases and oncogenic HPV infection was detected in 8 cases and thus, the overall incidence of possible p53 dysfunction was 47.8% on DNA analysis (If the results of immunohistochemistry to detect overexpression of p53 protein were included, the incidence was 60.9%). Therefore, we concluded that dysfunction of p53 plays a major role in the development of TCCs of bladder in Korean patients.",
+    "journal": "Yonsei medical journal",
+    "year": "1995",
+    "authors": [
+      "Kim KH",
+      "Kim YS"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7483675/"
+  },
+  {
+    "pmid": "20132225",
+    "title": "The cell death machinery governed by the p53 tumor suppressor in response to DNA damage.",
+    "abstract": "The cellular response to genotoxic stress that damages DNA includes cell cycle arrest, activation of DNA repair, and in the event of irreparable damage, induction of apoptosis. However, the signals that determine cell fate, that is, survival or apoptosis, are largely unclear. The tumor suppressor p53 has been implicated in many important cellular processes, including regulation of apoptotic cell death. When cells encounter genotoxic stress, certain sensors for DNA lesions eventually stabilize and activate p53. Subsequently, p53 exerts its tumor suppressor function by transactivating numerous target genes. Active p53 is subjected to a complex and diverse array of covalent post-translational modifications, which selectively influence the expression of p53 target genes. In this regard, the molecular basis for how p53 induces apoptosis has been extensively studied; however, the relative contribution of each downstream effector is still to be explored. Moreover, little is known about precise mechanisms by which modified p53 is capable of apoptosis induction. A thorough understanding for the whole picture of p53 modification in apoptosis will be extremely valuable in the development of highly effective and specific therapies for cancer patients. This review is focused on the current views regarding the regulation of cell fate by p53 in the apoptotic response to DNA damage.",
+    "journal": "Cancer science",
+    "year": "2010",
+    "authors": [
+      "Yoshida K",
+      "Miki Y"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20132225/"
+  },
+  {
+    "pmid": "20066118",
+    "title": "Tumor suppressive functions of p53.",
+    "abstract": "The majority of human cancers acquire mutations that abrogate the p53 tumor suppressor network and, as a consequence, p53 is one of the most extensively studied proteins in cancer research. Because of its potent tumor suppressive activity, it is widely assumed that a molecular understanding of p53 action will produce fundamental insights into natural processes that limit tumorigenesis and may identify key molecular targets for therapeutic intervention. p53 functions largely as a transcription factor, and can trigger a variety of antiproliferative programs by activating or repressing key effector genes. Despite a significant body of literature detailing the biochemical and biological functions of p53, much remains to be elucidated. Indeed, the p53 network is as complex and enigmatic as it is relevant. It is the goal of this article, written 30 years after the discovery of p53, to present a concise review of the tumor suppressor role of the p53 network and to highlight the context-dependent nature of p53 target-gene functions.",
+    "journal": "Cold Spring Harbor perspectives in biology",
+    "year": "2009",
+    "authors": [
+      "Zilfou JT",
+      "Lowe SW"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20066118/"
+  },
+  {
+    "pmid": "10101797",
+    "title": "Transcriptional regulation of the p53 tumor suppressor gene.",
+    "abstract": "Transcriptional regulation of the p53 gene plays an important role in expression of wild type p53 and in elevated expression of mutant p53 genes in tumor cells. In addition, alterations in p53 transcription levels occur in response to changes in the cell cycle. The following review describes current knowledge regarding the structures of both the human and murine p53 transcriptional regulatory regions and the factors that have been demonstrated to regulate promoter activity. The potential role of defects in transcriptional regulation of the p53 gene in oncogenic transformation is discussed.",
+    "journal": "Seminars in cancer biology",
+    "year": "1998",
+    "authors": [
+      "Reisman D",
+      "Loging WT"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10101797/"
+  },
+  {
+    "pmid": "11462029",
+    "title": "Inhibition of p53 tumor suppressor by viral interferon regulatory factor.",
+    "abstract": "The irreversible cell cycle arrest and apoptosis induced by p53 are part of the host surveillance mechanisms for viral infection and tumor induction. Kaposi's sarcoma-associated herpesvirus (KSHV), the most recently discovered human tumor virus, is associated with the pathogenesis of Kaposi's sarcoma, primary effusion lymphoma, and multicentric Castleman's disease. The K9 open reading frame of KSHV encodes a viral interferon (IFN) regulatory factor (vIRF) which functions as a repressor for cellular IFN-mediated signal transduction and as an oncoprotein to induce cell growth transformation. Here, we demonstrate that KSHV vIRF interacts with the cellular p53 tumor suppressor through the putative DNA binding region of vIRF and the central region of p53. This interaction suppresses the level of phosphorylation and acetylation of p53 and inhibits transcriptional activation of p53. As a consequence, vIRF efficiently prevents p53-mediated apoptosis. These results suggest that KSHV vIRF interacts with and inhibits the p53 tumor suppressor to circumvent host growth surveillance and to facilitate uncontrolled cell proliferation.",
+    "journal": "Journal of virology",
+    "year": "2001",
+    "authors": [
+      "Nakamura H",
+      "Li M",
+      "Zarycki J",
+      "Jung JU"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11462029/"
+  },
+  {
+    "pmid": "20182618",
+    "title": "Mutant p53 gain-of-function in cancer.",
+    "abstract": "In its wild-type form, p53 is a major tumor suppressor whose function is critical for protection against cancer. Many human tumors carry missense mutations in the TP53 gene, encoding p53. Typically, the affected tumor cells accumulate excessive amounts of the mutant p53 protein. Various lines of evidence indicate that, in addition to abrogating the tumor suppressor functions of wild-type p53, the common types of cancer-associated p53 mutations also endow the mutant protein with new activities that can contribute actively to various stages of tumor progression and to increased resistance to anticancer treatments. Collectively, these activities are referred to as mutant p53 gain-of-function. This article addresses the biological manifestations of mutant p53 gain-of-function, the underlying molecular mechanisms, and their possible clinical implications.",
+    "journal": "Cold Spring Harbor perspectives in biology",
+    "year": "2010",
+    "authors": [
+      "Oren M",
+      "Rotter V"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20182618/"
+  },
+  {
+    "pmid": "10380760",
+    "title": "Detection of mutations and polymorphisms in the p53 tumor suppressor gene by single-strand conformation polymorphism analysis.",
+    "abstract": "Deciphering the genetic mechanisms in cancer development requires analysis of a large number of tumors for consistent genetic alterations. Single-strand conformational polymorphism (SSCP) analysis is a fast and efficient method for detecting mutations, deletions, insertions and loss of alleles. The primary advantage of this method is speed and ability to screen a large number of samples at one time. Here we report the use of the SSCP technique for rapidly screening tumor and normal tissues for mutations and polymorphisms in the p53 tumor suppressor gene. Because the DNA extracted from specific aberrant bands from different samples always give rise to the same nucleotide sequence upon sequencing analysis, the SSCP technique can be used as a diagnostic tool to identify the presence of such genetic alterations without having to spend time on further sequencing analysis.",
+    "journal": "Electrophoresis",
+    "year": "1999",
+    "authors": [
+      "Kutach LS",
+      "Bolshakov S",
+      "Ananthaswamy HN"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10380760/"
+  },
+  {
+    "pmid": "8056458",
+    "title": "Cloning of feline p53 tumor-suppressor gene and its aberration in hematopoietic tumors.",
+    "abstract": "Alterations of the p53 tumor-suppressor gene have been observed in a variety of human and mouse tumors. For investigation of the role of this gene in tumors of cats, feline p53 cDNA was molecularly cloned from a feline lymph-node cDNA library. The cloned cDNA (FF53) contained the whole open reading frame of p53 gene encoding 386 amino acids. The amino-acid sequence of the feline p53 gene showed 82.1% and 74.9% similarities with those of the human and mouse counterparts, respectively, and had structural characteristics in common with the p53 genes of several other species. Aberrations of the p53 gene were investigated by RT-PCR and single-strand conformation polymorphism analyses. Of 10 primary hematopoietic tumors and 3 lymphoma cell lines examined, one lymphoma and one lymphoma cell line had a point mutation of the p53 gene, resulting in single amino-acid substitutions.",
+    "journal": "International journal of cancer",
+    "year": "1994",
+    "authors": [
+      "Okuda M",
+      "Umeda A",
+      "Sakai T",
+      "Ohashi T",
+      "Momoi Y",
+      "Youn HY",
+      "Watari T",
+      "Goitsuka R",
+      "Tsujimoto H",
+      "Hasegawa A"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8056458/"
+  },
+  {
+    "pmid": "1519662",
+    "title": "In situ hybridization and immunohistochemistry of p53 tumor suppressor gene in human esophageal carcinoma.",
+    "abstract": "We have studied expression of p53, a tumor suppressor gene, by using both immunohistochemistry and in situ hybridization in 20 cases of squamous cell carcinoma of the esophagus. Immunohistochemical analysis was performed by using monoclonal antibody pAb1801. Immunoreactive p53 was observed in the nuclei of the tumor cells in 17 cases. We used 35S-labeled anti-sense single-stranded synthetic oligonucleotide probe ON102, which hybridized with DNA sequence near the 5' end of p53, for in situ hybridization. In all the cases of invasive squamous cell carcinoma studied, no significant accumulation of p53 hybridization signals was observed in carcinoma cells. This result indicates that overexpression of p53 observed by immunohistochemical staining is not due to an increase in the steady-state level of p53 mRNA in frank carcinoma cells. In six cases of morphologically normal esophageal mucosa distant from carcinoma, accumulation of hybridization signals was observed in basal and parabasal cells of the mucosa. The mucosa of these cases was negative for p53 immunoreactivity except for one case showing sporadic positivity. Accumulation of hybridization signals was observed in foci of squamous dysplasia not associated with invasion in three cases.",
+    "journal": "The American journal of pathology",
+    "year": "1992",
+    "authors": [
+      "Sasano H",
+      "Goukon Y",
+      "Nishihira T",
+      "Nagura H"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/1519662/"
+  },
+  {
+    "pmid": "16713574",
+    "title": "VHL and p53: tumor suppressors team up to prevent cancer.",
+    "abstract": "In a recent issue of Molecular Cell, Roe et al. (2006) report that the von Hippel-Lindau (VHL) protein is a positive regulator of p53, thus providing insight into the mechanisms by which VHL loss of function leads to cancer.",
+    "journal": "Molecular cell",
+    "year": "2006",
+    "authors": [
+      "Semenza GL"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16713574/"
+  },
+  {
+    "pmid": "8286534",
+    "title": "Molecular cloning and chromosomal mapping of feline p53 tumor suppressor gene.",
+    "abstract": "Alterations of the p53 tumor suppressor gene have been observed in a variety of human and mouse tumors. For investigation of the role of this gene in tumors in cats, feline p53 cDNA was molecularly cloned by PCR amplifications using primers based on the sequences conserved among several species. The cloned cDNA appeared to cover approximately 90% of the open reading frame of the feline p53 gene and had characteristic structures in common with the p53 genes of several other species. The amino acid sequence similarities of the feline p53 with the human, mouse, rat and chicken counterparts were 82.9%, 75.6%, 76.5% and 57.2% respectively. Moreover, using a panel of feline x rodent somatic cell hybrids, the feline p53 gene was assigned to feline chromosome E1. These data will be useful for determining the role of the p53 tumor suppressor gene in feline tumors.",
+    "journal": "The Journal of veterinary medical science",
+    "year": "1993",
+    "authors": [
+      "Okuda M",
+      "Umeda A",
+      "Matsumoto Y",
+      "Momoi Y",
+      "Watari T",
+      "Goitsuka R",
+      "O'Brien SJ",
+      "Tsujimoto H",
+      "Hasegawa A"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8286534/"
+  },
+  {
+    "pmid": "8441680",
+    "title": "Structure of the rat p53 tumor suppressor gene.",
+    "abstract": "Aberration within the p53 tumor suppressor gene is the most frequently identified genetic damage in human cancer. Regulatory functions proposed for the p53 protein include modulation of the cell cycle, cellular differentiation, signal transduction, and gene expression. Additionally, the p53 gene product may guard the genome against incorporation of damaged DNA. To facilitate study of its role in carcinogenesis using a common animal model, we determined the structure of the rat p53 gene. We identified 18 splice sites and defined 25 bases of the intervening sequences adjacent to these sites. We also discovered an allelic polymorphism that occurs within intron 5 of the gene. The rat gene approximates the mouse ortholog. It is 12 kb in length with the non-coding exon 1 separated from exon 2 by 6.2 kb of intervening sequence. The location and size of all rat gene introns approximate those of the mouse. Whereas the mouse and human genes each contain 11 exons, the rat p53 gene is composed of only 10. No intervening sequence occurs between the region of the rat gene corresponding to exons 6 and 7 of the mouse and human p53 genes. This implies intron 6 may be functionally insignificant for species in which it is retained. To extrapolate to p53 involvement in human tumorigenesis, we suggest that mutational events within intron 6 may not be of pathological significance unless splicing is hindered.",
+    "journal": "Nucleic acids research",
+    "year": "1993",
+    "authors": [
+      "Hulla JE",
+      "Schneider RP"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8441680/"
+  },
+  {
+    "pmid": "7907948",
+    "title": "Mutagenesis of the H-ras protooncogene and the p53 tumor suppressor gene.",
+    "abstract": "Point mutations in ras protooncogenes and in the p53 tumor suppressor gene are common in many forms of human cancer. The identification of carcinogens which are responsible for their induction in humans is of great interest because it may suggest measures for disease prevention. Furthermore, the load of somatic mutations in cancer-related genes in premalignant tissues may become a useful parameter for risk assessment. For the measurement of such mutations, highly sensitive genotypic mutation systems are required which avoid the selection and clonal expansion of cells on the basis of a mutated phenotype. We have developed the restriction fragment length polymorphism/polymerase chain reaction method for genotypic mutation analysis and applied it to the study of the mutability of hot-spot codons in c-H-ras1 and p53 genes with human carcinogens. In particular, we studied the mutability of codons 247-250 of p53 with the mycotoxin aflatoxin B1 (AFB1) in human hepatocytes. AFB1 preferentially induced the transversion of guanosine to thymidine in the third position of codon 249, generating the same mutation which is found in a large fraction of hepatocellular carcinomas from regions of the world with AFB1-contaminated food. Our results are in support of AFB1 as an etiological factor for hepatocellular carcinoma in AFB1-contaminated areas. In an ongoing study we are comparing the load of mutations in hot-spot codon 12 of c-H-ras1 in urinary bladder carcinoma and in normal tissue, by restriction fragment length polymorphism/polymerase chain reaction. We observed moderately elevated abundances of guanosine to thymidine transversions in the middle position of codon 12 in tumor DNA. These results may reflect a mutator phenotype of the tumor tissue or they could be the consequence of the heterogeneity of the biopsies which were analyzed.",
+    "journal": "Cancer research",
+    "year": "1994",
+    "authors": [
+      "Cerutti P",
+      "Hussain P",
+      "Pourzand C",
+      "Aguilar F"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7907948/"
+  },
+  {
+    "pmid": "11156366",
+    "title": "Oncogenic mutations of the p53 tumor suppressor: the demons of the guardian of the genome.",
+    "abstract": "The p53 guardian of the genome is inactivated in the majority of cancers, mostly through missense mutations that cause single residue changes in the DNA binding core domain of the protein. Not only do such mutations result in the abrogation of wild-type p53 activity, but the expressed p53 mutant proteins also tend to gain oncogenic functions, such as interference with wild-type p53-independent apoptosis. Because p53 mutants are highly expressed in cancer cells and not in normal cells, their reactivation to wild-type p53 function may eliminate the cancer by apoptosis or another p53-dependent mechanism. Several studies that embarked on this quest for reactivation have succeeded in restoring wildtype p53 activity to several p53 mutants. However, mutants with more extensive structural changes in the DNA binding core domain may be refractory to reactivation to the wild-type p53 phenotype. Therefore, understanding the structure and functions of oncogenic p53 mutants may lead to more potent reactivation modalities or to the ability to eliminate mutant p53 gain of function.",
+    "journal": "Cancer research",
+    "year": "2000",
+    "authors": [
+      "Sigal A",
+      "Rotter V"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11156366/"
+  },
+  {
+    "pmid": "31795382",
+    "title": "p53 Isoforms in Cellular Senescence- and Ageing-Associated Biological and Physiological Functions.",
+    "abstract": "Cellular senescence, a term originally used to define the characteristics of normal human fibroblasts that reached their replicative limit, is an important factor for ageing, age-related diseases including cancer, and cell reprogramming. These outcomes are mediated by senescence-associated changes in gene expressions, which sometimes lead to the secretion of pro-inflammatory factors, or senescence-associated secretory phenotype (SASP) that contribute to paradoxical pro-tumorigenic effects. p53 functions as a transcription factor in cell-autonomous responses such as cell-cycle control, DNA repair, apoptosis, and cellular senescence, and also non-cell-autonomous responses to DNA damage by mediating the SASP function of immune system activation. The human TP53 gene encodes twelve protein isoforms, which provides an explanation for the pleiotropic p53 function on cellular senescence. Recent reports suggest that some short isoforms of p53 may modulate gene expressions in a full-length p53-dependent and -independent manner, in other words, some p53 isoforms cooperate with full-length p53, whereas others operate independently. This review summarizes our current knowledge about the biological activities and functions of p53 isoforms, especially Δ40p53, Δ133p53α, and p53β, on cellular senescence, ageing, age-related disorder, reprogramming, and cancer. Numerous cellular and animal model studies indicate that an unbalance in p53 isoform expression in specific cell types causes age-related disorders such as cancer, premature ageing, and degenerative diseases.",
+    "journal": "International journal of molecular sciences",
+    "year": "2019",
+    "authors": [
+      "Fujita K"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31795382/"
+  },
+  {
+    "pmid": "16230356",
+    "title": "tumor suppressor p53 binds with high affinity to CTG.CAG trinucleotide repeats and induces topological alterations in mismatched duplexes.",
+    "abstract": "DNA binding is central to the ability of p53 to function as a tumor suppressor. In line with the remarkable functional versatility of p53, which can act on DNA as a transcription, repair, recombination, replication, and chromatin accessibility factor, the modes of p53 interaction with DNA are also versatile. One feature common to all modes of p53-DNA interaction is the extraordinary sensitivity of p53 to the topology of its target DNA. Whereas the strong impact of DNA topology has been demonstrated for p53 binding to sequence-specific sites or to DNA lesions, the possibility that DNA structure-dependent recognition may underlie p53 interaction with other types of DNA has not been addressed until now. We demonstrate for the first time that conformationally flexible CTG.CAG trinucleotide repeats comprise a novel class of p53-binding sites targeted by p53 in a DNA structure-dependent mode in vitro and in vivo. Our major finding is that p53 binds to CTG.CAG tracts by different modes depending on the conformation of DNA. Although p53 binds preferentially to hairpins formed by either CTG or CAG strands, it can also bind to linear forms of CTG.CAG tracts such as canonic B DNA or mismatched duplex. Intriguingly, by binding to a mismatched duplex p53 can induce further topological alterations in DNA, indicating that p53 may act as a DNA topology-modulating factor.",
+    "journal": "The Journal of biological chemistry",
+    "year": "2005",
+    "authors": [
+      "Walter K",
+      "Warnecke G",
+      "Bowater R",
+      "Deppert W",
+      "Kim E"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16230356/"
+  },
+  {
+    "pmid": "10101800",
+    "title": "Regulation of p53 downstream genes.",
+    "abstract": "The p53 tumor suppressor is the most commonly mutated gene in human cancer. p53 protein is stabilized in response to different checkpoints activated by DNA damage, hypoxia, viral infection, or oncogene activation resulting in diverse biological effects, such as cell cycle arrest, apoptosis, senescence, differentiation, and antiangiogenesis. The stable p53 protein is activated by phosphorylation, dephosphorylation and acetylation yielding a potent sequence-specific DNA-binding transcription factor. The wide range of p53's biological effects can in part be explained by its activation of expression of a number of target genes including p21WAFI, GADD45, 14-3-3 sigma, bax, Fas/APO1, KILLER/DR5, PIG3, Tsp1, IGF-BP3 and others. This review will focus on the transcriptional targets of p53, their regulation by p53, and their relative importance in carrying out the biological effects of p53.",
+    "journal": "Seminars in cancer biology",
+    "year": "1998",
+    "authors": [
+      "el-Deiry WS"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10101800/"
+  },
+  {
+    "pmid": "16540640",
+    "title": "Tumor susceptibility and apoptosis defect in a mouse strain expressing a human p53 transgene.",
+    "abstract": "Activation of apoptosis is believed to be critical for the role of p53 as a tumor suppressor. Here, we report a new mouse strain carrying a human p53 transgene in the mouse p53-null background. Expression of human p53 in these mice was comparable with wild-type murine p53; however, transactivation, induction of apoptosis, and G(1)-S checkpoint, but not transrepression or regulation of a centrosomal checkpoint, were deregulated. Although multiple functions of p53 were abrogated, mice carrying the human p53 transgene did not show early onset of tumors as typically seen for p53-null mice. In contrast, human p53 in the p53-null background did not prevent accelerated tumor development after genotoxic or oncogenic stress. Such behavior of human p53 expressed at physiologic levels in transgenic cells could be explained by unexpectedly high binding with Mdm2. By using Nutlin-3a, an inhibitor of the interaction between Mdm2 and p53, we were able to partially reconstitute p53 transactivation and apoptosis in transgenic cells. Our findings indicate that the interaction between p53 and Mdm2 controls p53 transcriptional activity in homeostatic tissues and regulates DNA damage- and oncogene-induced, but not spontaneous, tumorigenesis.",
+    "journal": "Cancer research",
+    "year": "2006",
+    "authors": [
+      "Dudgeon C",
+      "Kek C",
+      "Demidov ON",
+      "Saito S",
+      "Fernandes K",
+      "Diot A",
+      "Bourdon JC",
+      "Lane DP",
+      "Appella E",
+      "Fornace AJ",
+      "Bulavin DV"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16540640/"
+  },
+  {
+    "pmid": "14663481",
+    "title": "Control of apoptosis by p53.",
+    "abstract": "The p53 tumor suppressor acts to integrate multiple stress signals into a series of diverse antiproliferative responses. One of the most important p53 functions is its ability to activate apoptosis, and disruption of this process can promote tumor progression and chemoresistance. p53 apparently promotes apoptosis through transcription-dependent and -independent mechanisms that act in concert to ensure that the cell death program proceeds efficiently. Moreover, the apoptotic activity of p53 is tightly controlled, and is influenced by a series of quantitative and qualitative events that influence the outcome of p53 activation. Interestingly, other p53 family members can also promote apoptosis, either in parallel or in concert with p53. Although incomplete, our current understanding of p53 illustrates how apoptosis can be integrated into a larger tumor suppressor network controlled by different signals, environmental factors, and cell type. Understanding this network in more detail will provide insights into cancer and other diseases, and will identify strategies to improve their therapeutic treatment.",
+    "journal": "Oncogene",
+    "year": "2003",
+    "authors": [
+      "Fridman JS",
+      "Lowe SW"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/14663481/"
+  },
+  {
+    "pmid": "21209895",
+    "title": "The ARF tumor suppressor regulates bone remodeling and osteosarcoma development in mice.",
+    "abstract": "The ARF tumor suppressor regulates p53 as well as basic developmental processes independent of p53, including osteoclast activation, by controlling ribosomal biogenesis. Here we provide evidence that ARF is a master regulator of bone remodeling and osteosarcoma (OS) development in mice. Arf(-/-) mice displayed increased osteoblast (OB) and osteoclast (OC) activity with a significant net increase in trabecular bone volume. The long bones of Arf(-/-) mice had increased expression of OB genes while Arf(-/-) OB showed enhanced differentiation in vitro. Mice transgenic for the Tax oncogene develop lymphocytic tumors with associated osteolytic lesions, while Tax+Arf(-/-) mice uniformly developed spontaneous OS by 7 months of age. Tax+Arf(-/-) tumors were well differentiated OS characterized by an abundance of new bone with OC recruitment, expressed OB markers and displayed intact levels of p53 mRNA and reduced Rb transcript levels. Cell lines established from OS recapitulated characteristics of the primary tumor, including the expression of mature OB markers and ability to form mineralized tumors when transplanted. Loss of heterozygosity in OS tumors arising in Tax+Arf(+/-) mice emphasized the necessity of ARF-loss in OS development. Hypothesizing that inhibition of ARF-regulated bone remodeling would repress development of OS, we demonstrated that treatment of Tax+Arf(-/-) mice with zoledronic acid, a bisphosphonate inhibitor of OC activity and repressor of bone turnover, prevented or delayed the onset of OS. These data describe a novel role for ARF as a regulator of bone remodeling through effects on both OB and OC. Finally, these data underscore the potential of targeting bone remodeling as adjuvant therapy or in patients with genetic predispositions to prevent the development of OS.",
+    "journal": "PloS one",
+    "year": "2010",
+    "authors": [
+      "Rauch DA",
+      "Hurchla MA",
+      "Harding JC",
+      "Deng H",
+      "Shea LK",
+      "Eagleton MC",
+      "Niewiesk S",
+      "Lairmore MD",
+      "Piwnica-Worms D",
+      "Rosol TJ",
+      "Weber JD",
+      "Ratner L",
+      "Weilbaecher KN"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21209895/"
+  },
+  {
+    "pmid": "7881474",
+    "title": "Detection of P53 tumor-suppressor-gene protein in bladder tumors and prostate cancer: possible clinical implications.",
+    "abstract": "For a variety of human malignancies such as breast cancer and cancer of the prostate, p53 oncoprotein overexpression indicating an alteration of the p53 tumor-suppressor gene has been described as a prognostic factor for a poor clinical outcome. To investigate the overexpression of p53 oncoprotein in transitional-cell carcinoma of the bladder, 58 bladder cancer specimens of different clinical stages and histological grades were investigated using an immunohistochemical approach. A correlation between p53 positivity and tumor stage was observed, with an increase from 38.5% of superficial (Ta) tumors to 83.3% of muscle-invasive (T3/T4) tumors staining positively for p53 oncoprotein. Furthermore, an increase from 46.7% of G1 tumors to 75% of G3 tumors was observed. In 22 of 25 (87%) informative patients the results of the immunohistochemical staining could be verified by the determination of p53 mutations as detected by polymerase chain reaction (PCR)-directed analysis of restriction-fragment-length polymorphisms (RFLP). To determine the prognostic value of p53 immunohistochemistry for the clinical course of superficial bladder cancer, the overexpression of p53 oncoprotein was investigated in 41 patients with superficial bladder tumors (T1) undergoing complete transurethral tumor resection. The detection of p53 protein was correlated with further clinically important variables such as sex, age, histological grading, former instillation therapy, and immunohistochemical determination of the proliferation rate by staining for PCNA (proliferating-cell nuclear antigen; monoclonal antibody PC10).(ABSTRACT TRUNCATED AT 250 WORDS)",
+    "journal": "World journal of urology",
+    "year": "1994",
+    "authors": [
+      "Kuczyk MA",
+      "Serth J",
+      "Hervatin C",
+      "Arndt H",
+      "Derendorf L",
+      "Thon WF",
+      "Jonas U"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7881474/"
+  },
+  {
+    "pmid": "37257244",
+    "title": "Dysregulation of P53 in breast cancer: Causative factors and treatment strategies.",
+    "abstract": "One of the most prevalent cancers impacting women worldwide is breast cancer. Although there are several risk factors for breast cancer, the p53 gene's function has recently received much attention. The \"gatekeeper\" gene, or p53, is sometimes referred to as such since it is crucial in controlling cell proliferation and preventing the development of malignant cells. By identifying DNA damage and initiating cellular repair processes, p53 usually functions as a tumor-suppressor. But p53 gene alterations can result in a lack of function, allowing cells to divide out of control and perhaps triggering the onset of cancer. Various factors, such as mutation genes, signaling pathways, and hormones, can dysregulate P53 proteins and cause breast cancer. A promising strategy for individualized cancer treatment involves focusing on p53 mutations in breast cancer. While numerous techniques, including gene therapy and small compounds, have shown promise, further study is required to create safe and efficient treatments to target p53 mutations in breast cancer successfully.",
+    "journal": "Pathology, research and practice",
+    "year": "2023",
+    "authors": [
+      "Shomali N",
+      "Kamrani A",
+      "Heris JA",
+      "Shahabi P",
+      "Nasiri H",
+      "Sadeghvand S",
+      "Ghahremanzadeh K",
+      "Akbari M"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37257244/"
+  },
+  {
+    "pmid": "11287288",
+    "title": "Expression of p53 tumor suppressor gene in adenoid cystic and mucoepidermoid carcinomas of the salivary glands.",
+    "abstract": "Seventeen adenoid cystic carcinomas (ACCs) and 27 mucoepidermoid carcinomas (MECs) occurring in the salivary glands were analyzed for p53 tumor suppressor gene alteration (exons 5-8) and protein expression. The cell proliferation activity was also examined by Ki-67 immunohistochemistry. The p53 alterations were detected in three samples (17.6%) of ACC and in four samples (14.8%) of MEC, and were only found in carcinomas arising in the minor salivary glands. The occurrence of the p53 gene alteration is less frequent in ACC and MEC than that in other kinds of tumors, and therefore does not seem to play a critical role in the course of the tumorigenesis in ACC and MEC. All ACC samples arising from the minor salivary glands exhibiting p53 gene alterations showed recurrence/metastasis, thus suggesting a poor outcome of these patients. All ACCs and three out of four MECs samples with p53 gene alterations showed the lowest degree of p53 immunostaining ratio, thus suggesting that no correlation exists between the p53 gene alterations and the p53 immunostaining in these salivary gland carcinomas. No significant relationship was demonstrated between the immunostaining ratio of either p53 or Ki-67 and the morphological growth pattern or patient clinical course in the ACC samples. The p53 immunopositivity in MEC correlated to the histological grade. The Ki-67 immunostaining ratio was also significantly related to the histological grade and the clinical course in MEC.",
+    "journal": "Oral oncology",
+    "year": "2001",
+    "authors": [
+      "Kiyoshima T",
+      "Shima K",
+      "Kobayashi I",
+      "Matsuo K",
+      "Okamura K",
+      "Komatsu S",
+      "Rasul AM",
+      "Sakai H"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11287288/"
+  },
+  {
+    "pmid": "23355100",
+    "title": "Tumor protein p53 (TP53) testing and Li-Fraumeni syndrome : current status of clinical applications and future directions.",
+    "abstract": "Prevalent as an acquired abnormality in cancer, the role of tumor protein p53 (TP53) as a germline mutation continues to evolve. The clinical impact of a germline TP53 mutation is often dramatic and affects the full life course, with a propensity to develop rare tumors in childhood and multiple common cancers of unexpectedly early onset in adulthood. In this article, we review the clinical relevance of germline mutations in the TP53 tumor suppressor gene to current healthcare practice, including the optimal ways to identify patients with Li-Fraumeni syndrome (LFS), to recognize the core cancers associated with LFS, and to develop strategies for early detection of LFS-associated tumors. Several TP53-targeted approaches to improve outcomes in LFS patients are also reviewed. A case report is used to highlight special TP53 testing dilemmas and unique challenges associated with genetic testing decisions in the current age of rapidly advancing genomic technologies.",
+    "journal": "Molecular diagnosis & therapy",
+    "year": "2013",
+    "authors": [
+      "Sorrell AD",
+      "Espenschied CR",
+      "Culver JO",
+      "Weitzel JN"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23355100/"
+  },
+  {
+    "pmid": "22523600",
+    "title": "Association of combined p73 and p53 genetic variants with tumor HPV16-positive oropharyngeal cancer.",
+    "abstract": "p53 and p73 interact with human papillomavirus (HPV) E6 and E7 oncoproteins. The interplay between p53 and p73 and HPV16 may lead to deregulation of cell cycle and apoptosis, through which inflammation/immune responses control the HPV clearance and escape of immune surveillance, and subsequently contribute to tumor HPV16 status. In this case-case comparison study, HPV16 status in tumor specimens was analyzed and p53 codon 72 and p73 G4C14-to-A4T14 polymorphisms were genotyped using genomic DNA from blood of 309 oropharyngeal cancer patients. Odds ratios (ORs) and 95% confidence intervals (95% CIs) were calculated in univariate and multivariable logistic regression models to examine the association. The results from this study showed both p53 variant genotypes (Arg/Pro+Pro/Pro) and p73 variant genotypes (GC/AT+AT/AT) were significantly associated with HPV16-positive tumor in oropharyngeal cancer patients (OR, 1.9, 95% CI, 1.1-3.3 and OR, 2.1, 95% CI, 1.2-3.8, respectively), while the combined variant genotypes (p53 Pro carriers and p73 AT carriers) exhibited a significantly greater association with HPV16-positive tumor (OR, 3.2, 95% CI, 1.4-7.4), compared with combined wild-type genotypes (p53 Arg/Arg and p73 GC/GC), and the association was in a statistically significant dose-effect relationship (p = 0.001). Moreover, such association was more pronounced among several subgroups. These findings suggest that variant genotypes of p53 and p73 genes may be individually, or more likely jointly, associated with tumor HPV16-positive oropharyngeal cancer patients, particularly in never smokers. Identification of such susceptible biomarkers would greatly influence on individualized treatment for an improved prognosis.",
+    "journal": "PloS one",
+    "year": "2012",
+    "authors": [
+      "Wang Z",
+      "Sturgis EM",
+      "Guo W",
+      "Song X",
+      "Zhang F",
+      "Xu L",
+      "Wei Q",
+      "Li G"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22523600/"
+  },
+  {
+    "pmid": "30712002",
+    "title": "Relevance of TP53 for CLL diagnostics.",
+    "abstract": "TP53 disruption in chronic lymphocytic leukaemia (CLL) is a well-established prognostic marker and informs on the appropriate course of treatment for patients. TP53 status is commonly assessed by fluorescence in situ hybridisation for del(17 p) and Sanger sequencing for TP53 mutations. At present, current screening methods for TP53 mutations fail to detect diagnostically relevant mutations potentially leading to inappropriate treatment decisions. In addition, low levels of mutations that are proving to be clinically relevant may not be discovered with current less sensitive techniques. This review describes the structure, function and regulation of the TP53 protein, the mutations found in cancer and CLL, the relevance of TP53 disruption in CLL and the current screening methods for TP53 mutations including next-generation sequencing.",
+    "journal": "Journal of clinical pathology",
+    "year": "2019",
+    "authors": [
+      "Catherwood MA",
+      "Gonzalez D",
+      "Donaldson D",
+      "Clifford R",
+      "Mills K",
+      "Thornton P"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30712002/"
+  },
+  {
+    "pmid": "9476967",
+    "title": "P53 tumor suppressor gene therapy for cancer.",
+    "abstract": "The last two decades have led to a greater understanding of the genetic basis of human malignancy. Although numerous genetic alterations have been detected in cancer, activation of oncogenes and inactivation of cell cycle regulators (e.g., tumor suppressor genes) are now known to play a critical role in the progression of the disease. Therapeutic strategies based on specific molecular alterations in cancer include reintroduction of wild-type tumor suppressor function to cells lacking the gene. p53 gene therapy provides an attractive strategy to test the potential clinical feasibility of this approach. Alterations in p53 function are present in approximately half of all malignancies, and expression of wild-type p53 can result in apoptosis in human tumor cells. This review summarizes current investigations with p53 gene therapy, highlighting the preclinical efforts with adenoviral, retroviral, and lipid-based gene delivery systems. A comprehensive review of the various clinical targets suggested for p53 gene therapy is presented together with challenges and prospects for future clinical investigation.",
+    "journal": "Cancer gene therapy",
+    "year": "1998",
+    "authors": [
+      "Nielsen LL",
+      "Maneval DC"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9476967/"
+  },
+  {
+    "pmid": "9833761",
+    "title": "Alterations of the p53 tumor-suppressor gene and K-ras oncogene in perihilar cholangiocarcinomas from a high-incidence area.",
+    "abstract": "We observed a clustering of cholangiocarcinoma in a part of West Virginia. We analyzed the frequency and type of alterations in the p53 tumor-suppressor gene and the K-ras oncogene to determine whether cholangiocarcinomas from this high-incidence area differ from other cholangiocarcinomas at the molecular level. We studied 12 carcinomas of patients from the high-incidence area (West Virginia group), and 15 carcinomas of patients from nearby states (non-West Virginia group). Over-expression of the p53 gene product, accompanying most mutations in the p53 gene, was determined by immunohistochemistry. p53 sequence analysis of exons 5, 6, 7, and 8 of the p53-immunohistochemical-positive carcinomas was also performed. K-ras codon 12 mutations were detected by the polymerase chain reaction and allele-specific oligonucleotide hybridization. Significantly more cholangiocarcinomas from the West Virginia group were p53-immunohistochemical-positive than from the non-West Virginia group (67% vs. 20%; p < 0.05). p53 mutations did not differ in the 2 groups in respect to site or specific type. No differences were found between the 2 groups regarding K-ras mutations (17% vs. 27%). Although the higher frequency of p53-immunohistochemical positivity in the West Virginia group may reflect a different etiology of these cholangiocarcinomas, explaining the high incidence in this area, results of p53 sequence analysis were not different in the West Virginia group. The high incidence may be explained by difference in carcinogenic dose or a different etiology not reflected in p53 or K-ras alterations.",
+    "journal": "International journal of cancer",
+    "year": "1998",
+    "authors": [
+      "Sturm PD",
+      "Baas IO",
+      "Clement MJ",
+      "Nakeeb A",
+      "Johan G",
+      "Offerhaus A",
+      "Hruban RH",
+      "Pitt HA"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9833761/"
+  },
+  {
+    "pmid": "20372800",
+    "title": "Identification of UNC5A as a novel transcriptional target of tumor suppressor p53 and a regulator of apoptosis.",
+    "abstract": "UNC5A is an axon-guidance molecule, and plays a critical role in neuronal development and differentiation as a netrin-1 receptor. Emerging evidence suggests that axon guidance molecules including UNC5A regulate apoptosis in non-neuronal cells. Here, we report that UNC5A regulates apoptosis as a downstream target of p53. UNC5A expression was strongly induced by exogenous and endogenous p53. Chromatin immunoprecipitation (ChIP) revealed that p53 binds to a sequence in the promoter region of the UNC5A gene. Reporter assays showed that this sequence exhibits p53-dependent transcriptional activity. Overexpression of UNC5A significantly suppressed colony formation of two glioblastoma cell lines-U373MG and T98G. UNC5A dramatically induced apoptosis through the activation of caspase-3 in various cancer cell lines, including LS174T (colon cancer), U373MG (glioblastoma), SH-SY5Y (neuroblastoma), and SKNAS (neuroblastoma). Finally, gamma irradiation strongly induced the expression of UNC5A mRNA in the spleen and colon of p53+/+ mice, but not in those of p53-/- mice, implying that the transcription of UNC5A in vivo is regulated by p53. These results suggest that UNC5A is a novel transcriptional target of p53 and plays a role in p53-dependent apoptosis.",
+    "journal": "International journal of oncology",
+    "year": "2010",
+    "authors": [
+      "Miyamoto Y",
+      "Futamura M",
+      "Kitamura N",
+      "Nakamura Y",
+      "Baba H",
+      "Arakawa H"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20372800/"
+  },
+  {
+    "pmid": "28160562",
+    "title": "The tumor suppressor capability of p53 is dependent on non-muscle myosin IIA function in head and neck cancer.",
+    "abstract": "Over 300,000 patients develop squamous cell carcinoma of the head and neck (HNSCC) worldwide with 25-30% of patients ultimately dying from their disease. Currently, molecular biomarkers are not used in HNSCC but several genes have been identified including mutant TP53 (mutp53). Our recent work has identified an approach to stratify patients with tumors harboring high or low risk TP53 mutations. Non-muscle Myosin IIA (NMIIA) was recently identified as a tumor suppressor in HNSCC. We now demonstrate that low MYH9 expression is associated with decreased survival in patients with head and neck cancer harboring low-risk mutp53 but not high-risk mutp53. Furthermore, inhibition of NMIIA leads to increased invasion in cells harboring wildtype p53 (wtp53), which was not observed in high-risk mutp53 cells. This increased invasiveness of wtp53 following NMIIA inhibition was associated with reduced p53 target gene expression and was absent in cells expressing mutp53. This reduced expression may be due, in part, to a decrease in nuclear localization of wtp53. These findings suggest that the tumor suppressor capability of wtp53 is dependent upon functional NMIIA and that the invasive phenotype of high-risk mutp53 is independent of NMIIA.",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "authors": [
+      "Coaxum SD",
+      "Tiedeken J",
+      "Garrett-Mayer E",
+      "Myers J",
+      "Rosenzweig SA",
+      "Neskey DM"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28160562/"
+  },
+  {
+    "pmid": "11321044",
+    "title": "The p53 tumor suppressor: critical regulator of life & death in cancer.",
+    "abstract": "p53 is the most commonly mutated or deleted known gene in human cancer. The consequences of its disruption are profound, either in the germlines of patients with Li-Fraumeni Syndrome, or in mice with targeted gene knockouts. Abundant evidence suggests that p53 exerts regulation of cell cycle progression as well as apoptotic cell death, both in response to identical environmental or metabolic stressors. The specific decision of cell cycle arrest vs. death may underlie p53's differential ability to trigger death in cancer cells and arrest with repair in non-cancer cells, thus producing a therapeutic index pertinent to cancer therapy. Indeed, p53 status is likely to correlate with prognosis in many human cancers and in multiple animal tumor models. The mechanistic basis for p53's functions are still emerging, and will hopefully yield new therapeutic strategies applicable to treatment of the many poor-prognosis, p53-deficient human malignancies.",
+    "journal": "Apoptosis : an international journal on programmed cell death",
+    "year": "2001",
+    "authors": [
+      "Fisher DE"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11321044/"
+  },
+  {
+    "pmid": "8402660",
+    "title": "Role of the p53 tumor suppressor gene in cell cycle arrest and radiosensitivity of Burkitt's lymphoma cell lines.",
+    "abstract": "We have assessed the role of the p53 tumor suppressor gene in cell cycle arrest and cytotoxicity of ionizing radiation in 17 Burkitt's lymphoma and lymphoblastoid cell lines. Cell cycle arrest was assessed by flow cytometry of cells 16 h following irradiation. In addition to the usual G2 arrest, the cell lines exhibited three types of responses in G1: Class I, strong arrest in G1 following radiation; Class II, minimal arrest; and Class III, an intermediate response. All Class I cells contained normal p53 genes. Of the ten lines that showed minimal G1 arrest, eight had mutant p53 alleles, and two lines were heterozygous for p53 mutations. Both of the lines showing an intermediate response contained wild-type p53. Our results are consistent with the view that mutations abrogate the ability of p53 to induce G1 arrest following radiation. Studies with the heterozygotes showed that the mutant protein can have a dominant negative influence upon wild-type p53, and the reduced ability of two normal p53 lines to arrest in G1 indicated that p53 function can be impaired by other mechanisms. The radiosensitivity of most of the lines appeared to depend on the ability of p53 to induce a G1 arrest. The mean radiation dose that inhibited proliferation of the Class I lines by 50% was 0.98 Gy. Of the eight p53 mutant cell lines tested, five lines required approximately 2.9 Gy to cause a 50% inhibition of cell proliferation. The two heterozygotes were also more resistant to radiation than the Class I cells (50% inhibitory dose, 2.1 and 2.9 Gy). Our results suggest that radioresistance is afforded by a loss of function of wild-type p53, which would normally induce a G1 arrest and promote cell death in the presence of DNA damage.",
+    "journal": "Cancer research",
+    "year": "1993",
+    "authors": [
+      "O'Connor PM",
+      "Jackman J",
+      "Jondle D",
+      "Bhatia K",
+      "Magrath I",
+      "Kohn KW"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8402660/"
+  },
+  {
+    "pmid": "17924139",
+    "title": "Early diversification and complex evolutionary history of the p53 tumor suppressor gene family.",
+    "abstract": "The p53 tumor suppressor plays the leading role in malignancy and in maintaining the genome's integrity and stability. p53 belongs to a gene family that in vertebrates includes two additional members, p63 and p73. Although similar in sequence, gene structure, and expression potential, the three p53 members differ in domain organization (in addition to the transactivation, DNA-binding, and tetramerization domains, p63 and p73 encode a sterile alpha motif, SAM, domain) and functional roles (with p63 and p73 assuming additional key roles in development). It is interesting to note that outside vertebrates, p53-like sequences have only been found as single genes, of either the p53 or the p63/p73 type (i.e., without or with a SAM domain, respectively). In this paper, we report that the diversification of this family is not restricted to the vertebrate lineage, as both a p53- and a p63/p73-type sequence are present in the unicellular choanoflagellate, Monosiga brevicollis. Furthermore, multiple independent duplication events involving p53-type sequences took place in several other animal lineages (cnidarians, flat worms, insects). These findings argue that selective factors other than those associated with the evolution of vertebrates are also relevant to the diversification of this family. Understanding the selective pressures associated with the multiple independent duplication events that took place in the p53 family and the roles of p53-like proteins outside vertebrates will provide further insight into the evolution of this very important family. In addition, the presence of both a p53 and a p63/73 copy in the unicellular M. brevicollis argues for its suitability as a model system for elucidating the functions of the p53 members and the mechanisms associated with their functional diversification.",
+    "journal": "Development genes and evolution",
+    "year": "2007",
+    "authors": [
+      "Nedelcu AM",
+      "Tan C"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17924139/"
+  },
+  {
+    "pmid": "9209381",
+    "title": "Role of p53 tumor suppressor gene and Fas/Apo-1 in induction of apoptosis and differentiation of cancer cells.",
+    "abstract": "Recent studies have suggested that wild-type p53 blocks cell cycle progression near the G1-S boundary and is involved in both differentiation and apoptosis in many types of cells including cancer cells. p53 expression is enhanced upon DNA-damaging apoptotic stimuli while Fas/Apo-1, a member of the tumor necrosis factor receptor family expressed on cell surface, transduces a signal for apoptosis upon specific ligand or antibody engagement. We demonstrated that stable transfection of the wild-type p53 gene under the control of CMV promoter induced differentiation and apoptosis under restricted conditions in cancer cells, and often caused sensitization of p53-transfected cells to Fas/Apo-1 signal. To investigate the interaction between two major apoptotic pathways involving p53 and Fas/Apo-1 we have established a system that allows to induce wild-type p53 overexpression and apoptosis in cancer cells upon treatment with anti-Fas antibody. The system also allows to investigate other factors interacting with p53 and Fas/Apo-1, and should provide a clue to understanding the biological and biochemical aspects of apoptosis.",
+    "journal": "Leukemia",
+    "year": "1997",
+    "authors": [
+      "Takahashi R"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9209381/"
+  },
+  {
+    "pmid": "9209385",
+    "title": "Point mutation of p53 tumor suppressor gene in bovine leukemia virus-induced lymphosarcoma.",
+    "abstract": "To elucidate the mechanism of leukemogenesis induced by bovine leukemia virus (BLV), the abnormality of p53 tumor suppressor gene was examined using the sequencing method of polymerase chain reaction (PCR)-amplified DNA from peripheral blood lymphocytes (PBL) and tumors from BLV-infected cattle that showed evidence of different stages during the progression of enzootic bovine leukosis (EBL). Mutations of the p53 gene were found in tumor cells from cattle with EBL, but not in PBL from BLV-free normal cattle or BLV-infected cattle without any evidence of tumor, suggesting mutation of p53 gene occurred specifically at the lymphoma stage of the disease. Twelve of eighteen cattle with EBL had seven missense and five silent mutations. The mutations were mapped to the highly evolutionarily conserved regions of p53 gene, and were involved in the DNA binding of p53. Thus, it appeared that the p53 point mutation is one of the critical events leading from the asymptomatic stage to the lymphoma stage.",
+    "journal": "Leukemia",
+    "year": "1997",
+    "authors": [
+      "Zhuang W",
+      "Tajima S",
+      "Okada K",
+      "Ikawa Y",
+      "Aida Y"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9209385/"
+  },
+  {
+    "pmid": "8674566",
+    "title": "p53 tumor suppressor gene protein expression in cervical cancer: relationship to prognosis.",
+    "abstract": "OBJECTIVE: Mutation of the p53 gene can be found in several human tumors. We tested the hypothesis whether overexpression of p53 protein is a parameter of more aggressive disease in patients with cervical cancer.\nSTUDY DESIGN: In this study, we describe the effects of p53 overexpression in 156 patients with cervical cancer (Figo stage IB-IV) by assessing expression patterns of the p53 gene product using a monoclonal anti-p53 antibody (DO7).\nRESULTS: Overexpression of p53 tumor suppressor gene protein was observed in 30.2% of the tumors, low expression in 30.7% and 39.1% of the tumors showed no p53 immunoreactivity. With increase in stage, p53 overexpression raised from 20.1% in stage IB to 60% in stage IV. A significant correlation between p53 overexpression and disease-free survival of patients was observed, however, after stratification for stage, this effect disappeared.\nCONCLUSIONS: The p53 mutation expressed as p53 tumor suppressor gene protein overexpression is a late event in cervical cancer genesis and does not appear to be of prognostic significance in cervical cancer.",
+    "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+    "year": "1995",
+    "authors": [
+      "Bremer GL",
+      "Tieboschb AT",
+      "van der Putten HW",
+      "de Haan J",
+      "Arends JW"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8674566/"
+  },
+  {
+    "pmid": "35904997",
+    "title": "An Updated View of the Roles of p53 in Embryonic Stem Cells.",
+    "abstract": "The TP53 gene is unarguably one of the most studied human genes. Its encoded protein, p53, is a tumor suppressor and is often called the \"guardian of the genome\" due to its pivotal role in maintaining genome stability. Historically, most studies of p53 have focused on its roles in somatic cells and tissues, but in the last 2 decades, its functions in embryonic stem cells (ESCs) and induced pluripotent stem cells have attracted increasing attention. Recent studies have identified p53 as a critical regulator of pluripotency, self-renewal, differentiation, proliferation, and genome stability in mouse and human embryonic stem cells. In this article, we systematically review the studies on the functions of p53 in ESCs, provide an updated overview, attempt to reconcile controversial results described in the literature, and discuss the relevance of these cellular functions of p53 to its roles in tumor suppression.",
+    "journal": "Stem cells (Dayton, Ohio)",
+    "year": "2022",
+    "authors": [
+      "Ayaz G",
+      "Yan H",
+      "Malik N",
+      "Huang J"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35904997/"
+  },
+  {
+    "pmid": "24262662",
+    "title": "Pharmacologic activation of wild-type p53 by nutlin therapy in childhood cancer.",
+    "abstract": "A peculiar feature of several types of childhood cancer is that loss-of-function mutations of the TP53 (p53) tumor suppressor gene are uncommon, in contrast to many adult tumors. As p53 needs to be inactivated in order for tumor cells to survive and thrive, pediatric tumors typically make use of other mechanisms to keep p53 in check. One of the critical negative regulators of p53 is the MDM2 oncoprotein. Many anticancer drug development efforts in the past decade have therefore been devoted to the discovery and optimization of small molecules that selectively disrupt the interaction between MDM2 and p53, which could provide, in principle, a potent means to restore p53 function in tumor cells with wild-type p53. The nutlins are the class of selective inhibitors of the p53-MDM2 interaction that are currently most advanced in their clinical development. We review here the preclinical data that support the potential therapeutic use of nutlin drugs in the treatment of various pediatric tumors, including neuroblastoma, retinoblastoma, osteosarcoma, Ewing's sarcoma, rhabdomyosarcoma, medulloblastoma, and childhood acute lymphoblastic leukemia.",
+    "journal": "Cancer letters",
+    "year": "2014",
+    "authors": [
+      "Van Maerken T",
+      "Rihani A",
+      "Van Goethem A",
+      "De Paepe A",
+      "Speleman F",
+      "Vandesompele J"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24262662/"
+  },
+  {
+    "pmid": "10101803",
+    "title": "Clinical implications of p53: effect on prognosis, tumor progression and chemotherapy response.",
+    "abstract": "The p53 tumor suppressor gene is frequently mutated in most human malignancies. These mutations have been associated with clinical outcome for various cancer types. Since this gene's main function is to guard the integrity of the genome, its clinical relevance, i.e. its role in carcinogenesis and chemotherapy-drug resistance, have been extensively studied. These data and the p53 protein as a potential target for new treatment strategies, are reviewed based on acquired knowledge of the structure function of the p53 protein.",
+    "journal": "Seminars in cancer biology",
+    "year": "1998",
+    "authors": [
+      "Peller S"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10101803/"
+  },
+  {
+    "pmid": "12556205",
+    "title": "Analysing p53 tumour suppressor functions in mice.",
+    "abstract": "Loss of tumour suppressor function is a common mechanistic step in deregulated cell growth and neoplasia. The p53 tumour suppressor gene is the most frequently mutated gene in cancer, and is inactivated in approximately 50% of human tumours. Mutation of p53 is also the predominant molecular basis of the Li-Fraumeni familial cancer susceptibility syndrome. p53 is a transcription factor that functions to regulate the integrity of the genome in response to DNA damage by inducing genes that promote cell cycle arrest, cell death, or repair of damaged DNA. These various effects exerted by p53 ensure that mutations do not pass on to subsequent generations, thus avoiding the presence of cells with multiple genetic hits that predispose the cell to neoplastic growth. Analysis of p53 functions using genetically-modified mice has complimented studies performed with human cancer tissue or cultured cells, and has greatly expanded knowledge about the role of p53 in tumour suppression. This finer understanding of p53 function has greatly facilitated research into small-molecule and other drug modifications of p53 activity as treatment modalities for the many human cancers bearing altered p53 function. This review will examine mouse models containing p53 modifications, and access the contribution of these studies to the understanding of p53-mediated tumour suppression.",
+    "journal": "Expert opinion on therapeutic targets",
+    "year": "2003",
+    "authors": [
+      "Sluss HK",
+      "Jones SN"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12556205/"
+  },
+  {
+    "pmid": "8304757",
+    "title": "Overexpression of p53 tumor suppressor protein in porokeratosis.",
+    "abstract": "BACKGROUND: p53 is a tumor suppressor nucleoprotein. Mutations of the p53 gene have been found in a variety of malignant neoplasms. Wild-type p53 has a short half-life, possibly only 20 to 30 minutes, and is not present in the nucleus at levels that are detectable with routine immunohistochemical techniques. Mutant p53 has a longer half-life, and is readily detectable with immunoperoxidase staining.\nRESULTS: We studied 17 specimens from patients with either porokeratosis of Mibelli or actinic porokeratosis, using immunoperoxidase staining with an antibody directed against the p53. There was staining of lesional keratinocyte nuclei in 16 of 17 specimens, limited in most cases to the zone between cornoid lamellae. Staining for proliferating cell nuclear antigen was increased above background levels in only six of 13 specimens.\nCONCLUSIONS: The finding of p53 immunoperoxidase staining in porokeratosis suggests genetic mutation, as occurs in other cutaneous keratinocytic neoplasms, and the lack of corresponding proliferating cell nuclear antigen expression in many specimens indicates that p53 overexpression is not simply a reflection of increased cellular proliferation.",
+    "journal": "Archives of dermatology",
+    "year": "1994",
+    "authors": [
+      "Magee JW",
+      "McCalmont TH",
+      "LeBoit PE"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8304757/"
+  },
+  {
+    "pmid": "8174107",
+    "title": "Mutations of the p53 tumor suppressor gene occur infrequently in Wilms' tumor.",
+    "abstract": "Mutations of the p53 tumor suppressor gene occur frequently in a variety of adult-onset tumors, including colon, breast, lung, and brain, yet are infrequently identified in pediatric malignancies. Wilms' tumor, a common solid tumor of childhood, can be associated with mutations of the WT1 gene. Alterations of the p53 gene have been shown to modulate the ability of WT1 to transactivate its targets. Although positive p53 immunostaining has been demonstrated in Wilms' tumors, the correlation to p53 gene mutations is not clear. We examined Wilms' tumor samples for p53 mutations utilizing polymerase chain reaction-single-strand conformation polymorphism analysis and single-strand DNA sequencing. Mutations in the coding region of the p53 gene were demonstrated in 2 of 21 (9.5%) Wilms' tumors. Each mutation yielded a substitution of amino acid residues. One mutation was located in exon 6 and the other in exon 7. Both mutations were found in tumors from patients with advanced stage disease. Focal anaplasia was demonstrated in one of these tumors. Our data suggest that although p53 mutations occur infrequently in Wilms' tumor, they may be associated with advanced disease.",
+    "journal": "Cancer research",
+    "year": "1994",
+    "authors": [
+      "Malkin D",
+      "Sexsmith E",
+      "Yeger H",
+      "Williams BR",
+      "Coppes MJ"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8174107/"
+  },
+  {
+    "pmid": "17308127",
+    "title": "Human mucin 1 oncoprotein represses transcription of the p53 tumor suppressor gene.",
+    "abstract": "The mucin 1 (MUC1) heterodimeric protein is aberrantly overexpressed in human breast cancers and induces transformation. The MUC1 COOH-terminal subunit (MUC1-C) is targeted to the nucleus of transformed cells, where it interacts with p53 and regulates p53-mediated transcription. The present studies show that MUC1 represses activation of the p53 gene and that MUC1-C occupies the PE21 element in the p53 proximal promoter. Previous work has shown that the Kruppel-like factor 4 (KLF4) transcription factor represses p53 transcription by binding to the PE21 element. Our results show that MUC1-C binds constitutively to KLF4, occupies PE21 with KLF4, and enhances the KLF4 occupancy of PE21. The results also show that MUC1-C increases the recruitment of histone deacetylases 1/3, deacetylation of core histones, and repression of p53 transcription. These findings indicate that overexpression of MUC1, as found in human breast cancer cells, is of functional importance to repression of the p53 gene.",
+    "journal": "Cancer research",
+    "year": "2007",
+    "authors": [
+      "Wei X",
+      "Xu H",
+      "Kufe D"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17308127/"
+  },
+  {
+    "pmid": "18505928",
+    "title": "Identification and functional characterization of the human glutathione S-transferase P1 gene as a novel transcriptional target of the p53 tumor suppressor gene.",
+    "abstract": "The glutathione S-transferase P1 (GSTP1) is involved in multiple cellular functions, including phase II metabolism, stress response, signaling, and apoptosis. The mechanisms underlying the significantly high GSTP1 expression in many human tumors are, however, currently not well understood. We report here that the GSTP1 gene is a heretofore unrecognized downstream transcriptional target of the tumor suppressor p53. We identified a p53-binding motif comprising two consecutive half-sites located in intron 4 of the GSTP1 gene and is highly homologous to consensus p53-binding motifs in other p53-responsive genes. Using a combination of electrophoretic mobility shift assay and DNase I footprinting analyses, we showed that wild-type p53 protein binds to the GSTP1 p53 motif and luciferase reporter assays showed the motif to be transcriptionally functional in human tumor cells. In a temperature-sensitive p53-mutant cells, levels of both p21/WAF1 and GSTP1 gene transcripts increased time dependently when cells were switched from the inactive mutant state to the wild-type p53 state. Small interfering RNA-mediated reduction of p53 expression resulted in a specific decrease in GSTP1 expression and in tumor cells with mutated p53; adenovirally mediated expression of wild-type p53 increased GSTP1 expression significantly. In a panel of early-passage brain tumor cultures from patients, high levels of GSTP1 transcripts and protein were associated with wild-type p53 and, conversely, low GSTP1 levels with mutant p53. p53 expression knockdown by small interfering RNA increased cisplatin sensitivity. The ability of wild-type p53 to transcriptionally activate the human GSTP1 gene defines a novel mechanism of protecting the genome and, potentially, of tumor drug resistance.",
+    "journal": "Molecular cancer research : MCR",
+    "year": "2008",
+    "authors": [
+      "Lo HW",
+      "Stephenson L",
+      "Cao X",
+      "Milas M",
+      "Pollock R",
+      "Ali-Osman F"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18505928/"
+  },
+  {
+    "pmid": "21691232",
+    "title": "Analysis of the functional integrity of the p53 tumor-suppressor gene in malignant melanoma.",
+    "abstract": "Derogation of the p53 pathway is a hallmark in human malignancies but its implication in melanomas remains unclear. p53 is frequently accumulated in melanomas despite protein stabilizing mutations being rare. For a panel of six melanoma cell lines we performed transcript sequence analysis of the entire coding region and determined p53 protein stability and messenger RNA stability by western blot experiments and quantitative reverse-transcription-PCR, respectively. Transcript levels of p53 modifying genes as well as p53 target genes were investigated after ultraviolet irradiation, interferon-α-2b, and chemotherapy (cisplatin or dacarbazine) by quantitative reverse-transcription-PCR. Transcript sequence analysis identified three aberrations in three of six melanomas. Four of six melanomas showed high-constitutive p53 protein levels. p53 transcripts remained stable in four of six melanomas. All p53-expressing melanomas displayed high p53 protein stability. Constitutively, and after ultraviolet irradiation, mouse double min-2 expression was reduced in melanomas. We detected high homeodomain-interacting protein kinase-2 level in melanomas-expressing mutant p53. Most experimental conditions resulted in lower expression of p21, GADD45A, and PUMA, and a higher expression of CDC2 in melanomas. Altogether, accumulation of p53 protein is due to posttranslational modification or aberrant expression of p53 modifiers. p53 is functionally disrupted although the p53 upstream signaling pathway remains inducible.",
+    "journal": "Melanoma research",
+    "year": "2011",
+    "authors": [
+      "Knopf A",
+      "Plettenberg C",
+      "Pickhard A",
+      "Bas M",
+      "Reifenberger J",
+      "Bier H",
+      "Balz V"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21691232/"
+  },
+  {
+    "pmid": "21099252",
+    "title": "p53 signaling and autophagy in cancer: a revolutionary strategy could be developed for cancer treatment.",
+    "abstract": "p53 as a tumor suppressor protein has been implicated in multiple aspects of biological processes, including apoptosis, cell cycle arrest, senescence, metabolism, differentiation and angiogenesis. Recently, several studies have shown that p53 can induce autophagy in both transcription-dependent and -independent manners. Nonetheless, p53 may also inhibit autophagy. In addition, p53 participates in homeostatic regulation of energy metabolism, oxidative stress and amino acid metabolism. Although the relationship between autophagy and p53 is quite complicated, and has not been well elucidated, p53 may underlie key aspects of metabolism and cancer biology. Thus, understanding the novel functions of p53 may allow us to develop new anticancer therapeutic approaches.",
+    "journal": "Autophagy",
+    "year": "2011",
+    "authors": [
+      "Sui X",
+      "Jin L",
+      "Huang X",
+      "Geng S",
+      "He C",
+      "Hu X"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21099252/"
+  },
+  {
+    "pmid": "29786075",
+    "title": "TP53 gain-of-function mutation promotes inflammation in glioblastoma.",
+    "abstract": "Glioblastoma (GBM), the most severe and common brain tumor in adults, is characterized by multiple somatic mutations and aberrant activation of inflammatory responses. Immune cell infiltration and subsequent inflammation cause tumor growth and resistance to therapy. Somatic loss-of-function mutations in the gene encoding tumor suppressor protein p53 (TP53) are frequently observed in various cancers. However, numerous studies suggest that TP53 regulates malignant phenotypes by gain-of-function (GOF) mutations. Here we demonstrate that a TP53 GOF mutation promotes inflammation in GBM. Ectopic expression of a TP53 GOF mutant induced transcriptomic changes, which resulted in enrichment of gene signatures related to inflammation and chemotaxis. Bioinformatics analyses revealed that a gene signature, upregulated by the TP53 GOF mutation, is associated with progression and shorter overall survival in GBM. We also observed significant correlations between the TP53 GOF mutation signature and inflammation in the clinical database of GBM and other cancers. The TP53 GOF mutant showed upregulated C-C motif chemokine ligand 2 (CCL2) and tumor necrosis factor alpha (TNFA) expression via nuclear factor kappa B (NFκB) signaling, consequently increasing microglia and monocyte-derived immune cell infiltration. Additionally, TP53 GOF mutation and CCL2 and TNFA expression correlated positively with tumor-associated immunity in patients with GBM. Taken together, our findings suggest that the TP53 GOF mutation plays a crucial role in inflammatory responses, thereby deteriorating prognostic outcomes in patients with GBM.",
+    "journal": "Cell death and differentiation",
+    "year": "2019",
+    "authors": [
+      "Ham SW",
+      "Jeon HY",
+      "Jin X",
+      "Kim EJ",
+      "Kim JK",
+      "Shin YJ",
+      "Lee Y",
+      "Kim SH",
+      "Lee SY",
+      "Seo S",
+      "Park MG",
+      "Kim HM",
+      "Nam DH",
+      "Kim H"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29786075/"
+  },
+  {
+    "pmid": "19221462",
+    "title": "ARF, autophagy and tumor suppression.",
+    "abstract": "Autophagy plays a critical role in the initiation and progression of tumors. The exact nature of this role, however, is complex. Autophagy is suppressive to tumor initiation, and reduces genomic instability. Genes with key roles in autophagy are mutated in human cancer, and knockout mice for certain autophagy genes are predisposed to cancer. Conversely, established tumors appear to utilize autophagy in order to survive periods of metabolic or hypoxic stress. Consistent with this, small molecule inhibitors of autophagy like chloroquine are effective anticancer agents for certain tumor types. The consensus appears to be that autophagy suppresses tumor initiation, but promotes the survival of established tumors. But this premise may be over-simplified. Several groups have recently shown that the ARF tumor suppressor can induce autophagy. While some groups have found that ARF-mediated autophagy is cytotoxic to tumor cells, we have shown that ARF's autophagy function may promote the survival and progression of certain tumors. We have previously shown that silencing ARF limits autophagy and the development of p53-null lymphomas. In this addendum, we show this is not true for primary p53-null sarcoma cells. Rather, ARF-silencing enhances sarcoma development. These data suggest that the survival-benefit of ARF, and possibly also of autophagy, may be restricted to certain tumor types.",
+    "journal": "Autophagy",
+    "year": "2009",
+    "authors": [
+      "Pimkina J",
+      "Murphy ME"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19221462/"
+  },
+  {
+    "pmid": "7849806",
+    "title": "The p53 tumor suppressor gene and pediatric brain tumors.",
+    "abstract": "Mutations of the p53 tumor suppressor gene are common in astrocytomas that occur in adults but are rarely found in astrocytomas or medulloblastomas of children. This difference may contribute to the overall better prognosis of astrocytomas in children and potentially make pediatric astrocytomas and medulloblastomas more sensitive to antitumor therapy.",
+    "journal": "Current opinion in pediatrics",
+    "year": "1994",
+    "authors": [
+      "Pomeroy SL"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7849806/"
+  },
+  {
+    "pmid": "38270700",
+    "title": "TP53 to mediate immune escape in tumor microenvironment: an overview of the research progress.",
+    "abstract": "Increasing evidence suggests that key cancer-causing driver genes continue to exert a sustained influence on the tumor microenvironment (TME), highlighting the importance of immunotherapeutic targeting of gene mutations in governing tumor progression. TP53 is a prominent tumor suppressor that encodes the p53 protein, which controls the initiation and progression of different tumor types. Wild-type p53 maintains cell homeostasis and genomic instability through complex pathways, and mutant p53 (Mut p53) promotes tumor occurrence and development by regulating the TME. To date, it has been wildly considered that TP53 is able to mediate tumor immune escape. Herein, we summarized the relationship between TP53 gene and tumors, discussed the mechanism of Mut p53 mediated tumor immune escape, and summarized the progress of applying p53 protein in immunotherapy. This study will provide a basic basis for further exploration of therapeutic strategies targeting p53 protein.",
+    "journal": "Molecular biology reports",
+    "year": "2024",
+    "authors": [
+      "Zhu KL",
+      "Su F",
+      "Yang JR",
+      "Xiao RW",
+      "Wu RY",
+      "Cao MY",
+      "Ling XL",
+      "Zhang T"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38270700/"
+  },
+  {
+    "pmid": "8633237",
+    "title": "Blockage by adenovirus E4orf6 of transcriptional activation by the p53 tumor suppressor.",
+    "abstract": "The adenovirus E4orf6 protein is shown here to interact with the cellular tumor suppressor protein p53 and to block p53-mediated transcriptional activation. The adenovirus protein inhibited the ability of p53 to bind to human TAFII31, a component of transcription factor IID (TFIID). Earlier work demonstrated that the interaction of p53 with TAFII31 involves a sequence near the NH2-terminus of p53, whereas the E4orf6-p53 interaction occurs within amino acids 318 to 360 of p53. Thus, the E4orf6 protein interacts at a site on p53 distinct from the domain that binds to TAFII31 but nevertheless inhibits the p53-TAFII31 interaction.",
+    "journal": "Science (New York, N.Y.)",
+    "year": "1996",
+    "authors": [
+      "Dobner T",
+      "Horikoshi N",
+      "Rubenwolf S",
+      "Shenk T"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8633237/"
+  },
+  {
+    "pmid": "9161419",
+    "title": "Cloning of the p53 tumor suppressor gene from the Japanese medaka (Oryzias latipes) and evaluation of mutational hotspots in MNNG-exposed fish.",
+    "abstract": "A full-length cDNA clone of the medaka (Oryzias latipes) p53 tumor suppressor gene was isolated from a cDNA library from adult liver tissue, sequenced and characterized. Sequence analysis revealed a high degree of homology between putative functional domains of medaka p53 and p53 genes from other vertebrate taxa including rainbow trout (Oncorhynchus mykiss), frog (Xenopus laevis), chicken (Gallus gallus), rat (Rattus norvegicus), mouse (Mus musculus), hamster (Mesocricetus auratus), green monkey (Ceropithecus aethiops) and human (Homo sapiens). A single 1.9-kb p53 mRNA is expressed at a very low level in normal adult liver tissue. This transcript is similar in size to transcripts of p53 genes from other species. Preliminary screening of six MNNG-induced tumors in four adult medaka revealed no mutations within characteristic mutational hotspots encompassing conserved domains IV and V.",
+    "journal": "Gene",
+    "year": "1997",
+    "authors": [
+      "Krause MK",
+      "Rhodes LD",
+      "Van Beneden RJ"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9161419/"
+  },
+  {
+    "pmid": "7626788",
+    "title": "Nucleotide sequence of the ovine P53 tumor-suppressor cDNA and its genomic organization.",
+    "abstract": "A 2155 bp cDNA clone corresponding to the ovine p53 tumor suppressor gene has been isolated from a cDNA library made from the BLV-transformed YR2 cell line RNA. After the sequencing analysis, it appeared that this clone contains the entire p53 coding region (including 126 bp upstream of the ATG initiation codon). The nucleotide sequence shows a high degree of homology with the human (73%), murine (74%) and rat (66%) cDNAs. The encoded ovine p53 protein is 382 amino acids long with an apparent molecular weight of 50 kDa and shares 79% and 72% amino acid homology with the human and the mouse p53 respectively. Furthermore, the homology is not equally distributed along the molecule but is mainly located within five highly conserved regions. As its mouse and human counterparts, the ovine p53 contains a high proportion of proline residues, an acidic N-terminal domain and a basic C-terminal domain. We also report the structure of the ovine p53 gene that is similar to those already defined from other species.",
+    "journal": "DNA sequence : the journal of DNA sequencing and mapping",
+    "year": "1995",
+    "authors": [
+      "Dequiedt F",
+      "Kettmann R",
+      "Burny A",
+      "Willems L"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7626788/"
+  },
+  {
+    "pmid": "20126990",
+    "title": "Loss of the p53 tumor suppressor activity is associated with negative prognosis of mantle cell lymphoma.",
+    "abstract": "Mantle cell lymphoma (MCL) is typified by translocation t(11;14)(q13;q32) causing upregulation of cyclin D1 and deregulation of cell cycle. The cyclin D1 activation plays a critical role in MCL pathogenesis but additional oncogenic events, such as aberrations of the ARF/MDM2/p53 pathway are also necessary for progression of the disease. We analyzed the p53 tumor suppressor in tumor tissue of 33 patients with MCL. The p53 status was determined by functional analyses in yeast (FASAY) and by cDNA sequencing. The level of the p53 protein was assessed by immunohistochemistry and immunoblotting. Loss of the p53-specific locus 17p13.3 was detected by FISH. Mutations in the p53 gene were detected in nine samples and they included eight missense mutations and one short deletion causing frame shift and premature stop codon formation in position 169. This mutation was associated with mRNA decay as revealed by sequencing of the p53 gDNA. All eight missense mutations were manifested by accumulation of the p53 protein in nuclei of tumor cells and three of them exhibited loss of the p53-specific locus 17p13.3. The p53 mutations were shown to be a negative prognostic marker in MCL.",
+    "journal": "International journal of oncology",
+    "year": "2010",
+    "authors": [
+      "Stefancikova L",
+      "Moulis M",
+      "Fabian P",
+      "Ravcukova B",
+      "Vasova I",
+      "Muzik J",
+      "Malcikova J",
+      "Falkova I",
+      "Slovackova J",
+      "Smardova J"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20126990/"
+  },
+  {
+    "pmid": "21196260",
+    "title": "Why YPEL3 represents a novel tumor suppressor.",
+    "abstract": "Yippee-like 3 (YPEL3) was reported in 2004 as one of five family members of the Yippee protein with conservation in species down to slime molds. While reports of other YPEL family members have surfaced our laboratory was the first to report that YPEL3 is induced by the p53 tumor suppressor. Furthermore we demonstrated that YPEL3 is growth suppressive, triggering cellular senescence in human cell lines and is down-regulated in several human tumors. Studies with mouse YPEL3, originally named small unstable apoptotic protein (SUAP), confirmed that the gene encodes a growth suppressive highly unstable protein. In this review we show that transcriptionally active forms of p73 and p63, family members of p53, can transactivate the human YPEL3 gene. While there are several reported YPEL3 transcripts and potentially 2 protein isoforms, no clear protein structure has been reported. As evidence mounts that YPEL3 is a tumor suppressor gene, studies aimed at understanding its biological function, regulation of gene expression and impact on tumorigenesis will help.",
+    "journal": "Frontiers in bioscience (Landmark edition)",
+    "year": "2011",
+    "authors": [
+      "Berberich SJ",
+      "Todd A",
+      "Tuttle R"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21196260/"
+  },
+  {
+    "pmid": "36749725",
+    "title": "Common activities and predictive gene signature identified for genetic hypomorphs of TP53.",
+    "abstract": "Missense mutations that inactivate p53 occur commonly in cancer, and germline mutations in TP53 cause Li Fraumeni syndrome, which is associated with early-onset cancer. In addition, there are over two hundred germline missense variants of p53 that remain uncharacterized. In some cases, these germline variants have been shown to encode lesser-functioning, or hypomorphic, p53 protein, and these alleles are associated with increased cancer risk in humans and mouse models. However, most hypomorphic p53 variants remain un- or mis-classified in clinical genetics databases. There thus exists a significant need to better understand the behavior of p53 hypomorphs and to develop a functional assay that can distinguish hypomorphs from wild-type p53 or benign variants. We report the surprising finding that two different African-centric genetic hypomorphs of p53 that occur in distinct functional domains of the protein share common activities. Specifically, the Pro47Ser variant, located in the transactivation domain, and the Tyr107His variant, located in the DNA binding domain, both share increased propensity to misfold into a conformation specific for mutant, misfolded p53. Additionally, cells and tissues containing these hypomorphic variants show increased NF-κB activity. We identify a common gene expression signature from unstressed lymphocyte cell lines that is shared between multiple germline hypomorphic variants of TP53, and which successfully distinguishes wild-type p53 and a benign variant from lesser-functioning hypomorphic p53 variants. Our findings will allow us to better understand the contribution of p53 hypomorphs to disease risk and should help better inform cancer risk in the carriers of p53 variants.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": "2023",
+    "authors": [
+      "Leung JC",
+      "Leu JI",
+      "Indeglia A",
+      "Kannan T",
+      "Clarke NL",
+      "Kirven NA",
+      "Dweep H",
+      "Garlick D",
+      "Barnoud T",
+      "Kossenkov AV",
+      "George DL",
+      "Murphy ME"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36749725/"
+  },
+  {
+    "pmid": "14743210",
+    "title": "Alterations in the p16(INK4a) and p53 tumor suppressor genes of hTERT-immortalized human fibroblasts.",
+    "abstract": "Exogenous expression of the catalytic subunit of telomerase, hTERT, in a normal human foreskin fibroblast cell strain resulted in telomerase activity and an extended proliferative lifespan prior to a period of crisis. Three immortalized cell lines with stably maintained telomere lengths were established from cells that escaped crisis. Each of these cultures underwent a significant downregulation of p16(INK4a) expression due to gene deletion events. One cell line also acquired mutations in both alleles of the p53 tumor suppressor gene. Downregulation of p16(INK4a) and loss of wild-type p53 expression occurred after escape from crisis, so these mutations are most likely not required for immortalization of these cells but rather were selected for during continuous growth in vitro. These findings emphasize the need for caution in the use of hTERT-immortalized cells in studies of normal cell biology or in tissue engineering and the need to monitor for genetic instability and the accumulation of mutations in both the p16(INK4a)/pRb and p53 pathways.",
+    "journal": "Oncogene",
+    "year": "2004",
+    "authors": [
+      "Noble JR",
+      "Zhong ZH",
+      "Neumann AA",
+      "Melki JR",
+      "Clark SJ",
+      "Reddel RR"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/14743210/"
+  },
+  {
+    "pmid": "9057590",
+    "title": "p53: functions, mutations and sarcomas.",
+    "abstract": "The p53 gene is the most commonly altered gene in a multitude of human cancers. The alterations can be acquired somatically or transmitted through the germ-line. Bone and soft tissue sarcomas are frequently found to have acquired abnormalities in the p53 and mdm-2 genes. In soft tissue sarcoma, the amplification of the mdm-2 gene and the binding of its oncogene product to wild-type p53 protein functionally inactivates normal p53-regulated growth. Inherited mutations of the p53 gene are associated with the rare Li-Fraumeni familial cancer syndrome. Various tumor types arise in these families, with sarcomas of the bone and soft tissues and carcinoma of the breast being the most frequently observed. Transgenic mice with highly expressed mutated p53 have a higher incidence of tumors, including predominantly osteosarcomas and soft tissue sarcomas. In close similarity with the Li-Fraumeni syndrome, homozygously p53-null mice (transgenic mice carrying two non-functional p53 allele) are developmentally normal however they are susceptible to spontaneous tumor formation. This article reviews briefly the structure, function, and dysfunction of the p53 tumor-suppressor gene with particular focus on its role in the development of bone and soft tissue sarcoma.",
+    "journal": "Acta orthopaedica Scandinavica. Supplementum",
+    "year": "1997",
+    "authors": [
+      "Hung J",
+      "Anderson R"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9057590/"
+  },
+  {
+    "pmid": "11600572",
+    "title": "An inherited mutation outside the highly conserved DNA-binding domain of the p53 tumor suppressor protein in children and adults with sporadic adrenocortical tumors.",
+    "abstract": "Mutations of the p53 tumor suppressor gene are the single most common genetic alterations in human cancers. Recently, a distinct nucleotide substitution was identified in exon 10 of the p53 gene, leading to an Arg337His mutation in 97% of children with adrenocortical tumors from Southern Brazil. In the present study, we investigated the presence of this mutation in a larger series of 55 patients (37 adults and 18 children) with benign and malignant sporadic adrenocortical tumors. None of the patients had family cancer histories that conformed to the criteria for Li-Fraumeni syndrome. Twenty-one asymptomatic close relatives of patients with p53 mutations and 60 normal unrelated individuals were also studied. The missense Arg337His mutation was identified in 19 patients (14 children and 5 adults), and 8 of 11 cases studied had LOH. Among the 19 patients with the Arg337His mutation, only one boy and three adults showed fatal evolution or recurrent metastases. This mutation was also identified in heterozygous state in asymptomatic first-degree relatives of the patients, indicating that Arg337His mutation was inherited in most cases. In contrast, this mutation was not found in 120 alleles of normal unrelated controls. In conclusion, the germ line Arg337His mutation of p53 protein is present at a high frequency (77.7%) in children with benign or malignant sporadic adrenocortical tumors, but it is not restricted to the pediatric group, since 13.5% of adults with adrenocortical tumors also had this mutation. The presence of this mutation was related to unfavorable prognosis in most of the adults, but not in the children with adrenocortical tumors.",
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "year": "2001",
+    "authors": [
+      "Latronico AC",
+      "Pinto EM",
+      "Domenice S",
+      "Fragoso MC",
+      "Martin RM",
+      "Zerbini MC",
+      "Lucon AM",
+      "Mendonca BB"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11600572/"
+  },
+  {
+    "pmid": "7573356",
+    "title": "Intratumor cellular heterogeneity and alterations in ras oncogene and p53 tumor suppressor gene in human prostate carcinoma.",
+    "abstract": "To assess the potential role of ras oncogene activation and p53 tumor suppressor gene mutations in the development of human prostate carcinoma, nine cases of histologically heterogeneous prostate tumors obtained from total prostatectomies were probed for these specific events. Each tumor was divided into 5 to 10 areas according to different growth or histological patterns. Targeted DNA sequences coding for ras and p53 were amplified by the polymerase chain reaction, analyzed by single-strand conformational polymorphisms, and confirmed by direct DNA sequencing. Point mutations of the ras gene were found in three of the nine tumors. Two contained K-ras codon 13 and H-ras codon 61 mutations, found in only one and three areas of each lesion, respectively. The third tumor contained two different point mutations in K-ras codons 13 and 61 in different foci of the sample. Loss of heterozygosity at the polymorphic codon 72 in the p53 gene was detected in two of four informative cases (50%) showing fragment cleavage by restriction fragment length polymorphism analysis. Mutations in p53, missense transversions, single base insertions, and two base deletions were also detected in three tumors. The present results reveal mutated ras and p53 occasionally occurring in small foci of the tumor and that genetic mutations in p53, as opposed to those in ras, are more closely associated with invasive growth of heterogeneous prostate carcinoma.",
+    "journal": "The American journal of pathology",
+    "year": "1995",
+    "authors": [
+      "Konishi N",
+      "Hiasa Y",
+      "Matsuda H",
+      "Tao M",
+      "Tsuzuki T",
+      "Hayashi I",
+      "Kitahori Y",
+      "Shiraishi T",
+      "Yatani R",
+      "Shimazaki J"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7573356/"
+  },
+  {
+    "pmid": "16827139",
+    "title": "P53 mutants suppress ZBP-89 function.",
+    "abstract": "BACKGROUND: ZBP-89 is a widely expressed Krüppel-type zinc finger transcription factor that binds to GC-rich elements and represses or activates known target genes. ZBP-89 stabilizes wild-type p53 and can induce apoptosis independently of p53. Tissues with p53 mutations are predisposed to transformation and are more resistant to chemotherapy.\nMATERIALS AND METHODS: The effect of ZBP-89 on seven sporadic p53 mutants was investigated. It was then examined whether a cell null for p53 in comparison to one expressing mutated p53 is more sensitive or resistant to chemotherapy in the presence of increased levels of ZBP-89.\nRESULTS: None of the p53 mutations were stabilized by ZBP-89 except for the A161T p53 mutation, which exhibited constitutive transcriptional activity. ZBP-89 potentiated p53-mediated cell death with 10 nM staurosporine and 100 nM etoposide, but did not in the presence of the R273H p53 mutation.\nCONCLUSION: ZBP-89 is an important co-activator of wild-type p53 and both proteins are negatively affected by functionally inactive p53 mutants.",
+    "journal": "Anticancer research",
+    "year": "2006",
+    "authors": [
+      "Okada M",
+      "Tessier A",
+      "Bai L",
+      "Merchant JL"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16827139/"
+  },
+  {
+    "pmid": "9823903",
+    "title": "The p53 tumour suppressor gene.",
+    "abstract": "BACKGROUND: Abnormalities of the p53 tumour suppressor gene are thought to be central to the development of a high proportion of human tumours. This article reviews current understanding of its function and potential clinical significance.\nMETHODS: Material was identified from previous review articles, references cited in original papers, a Medline search of the literature over the 12 months to January 1998, and by scanning the latest issues of relevant journals.\nRESULTS AND CONCLUSION: p53 is considered to be a stress response gene, its product (the p53 protein) acting to induce cell cycle arrest or apoptosis in response to DNA damage, thereby maintaining genetic stability in the organism. These functions are executed by a complex and incompletely understood series of steps known as the 'p53 pathway', part of which involves induction of the expression of a number of other genes. As p53 is the most commonly mutated gene in human cancer, it has attracted a great deal of interest as a prognostic factor, diagnostic tool and therapeutic target. However, despite many promising studies, its potential in practical cancer management has still to be realized.",
+    "journal": "The British journal of surgery",
+    "year": "1998",
+    "authors": [
+      "Steele RJ",
+      "Thompson AM",
+      "Hall PA",
+      "Lane DP"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9823903/"
+  },
+  {
+    "pmid": "19075680",
+    "title": "Posttranscriptional regulation of p53 and its targets by RNA-binding proteins.",
+    "abstract": "p53 tumor suppressor plays a pivotal role in maintaining genomic integrity and preventing cancer development. The importance of p53 in tumor suppression is illustrated by the observation that about 50% human tumor cells have a dysfunctional p53 pathway. Although it has been well accepted that the activity of p53 is mainly controlled through post-translational modifications, recent studies have revealed that posttranscriptional regulations of p53 by various RNA-binding proteins also play a crucial role in modulating p53 activity and its downstream targets.",
+    "journal": "Current molecular medicine",
+    "year": "2008",
+    "authors": [
+      "Zhang J",
+      "Chen X"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19075680/"
+  },
+  {
+    "pmid": "22383384",
+    "title": "Interaction between the Cockayne syndrome B and p53 proteins: implications for aging.",
+    "abstract": "The CSB protein plays a role in the transcription coupled repair (TCR) branch of the nucleotide excision repair pathway. CSB is very often found mutated in Cockayne syndrome, a segmental progeroid genetic disease characterized by organ degeneration and growth failure. The tumor suppressor p53 plays a pivotal role in triggering senescence and apoptosis and suppressing tumorigenesis. Although p53 is very important to avoid cancer, its excessive activity can be detrimental for the lifespan of the organism. This is why a network of positive and negative feedback loops, which most likely evolved to fine-tune the activity of this tumor suppressor, modulate its induction and activation. Accordingly, an unbalanced p53 activity gives rise to premature aging or cancer. The physical interaction between CSB and p53 proteins has been known for more than a decade but, despite several hypotheses, nobody has been able to show the functional consequences of this interaction. In this review we resume recent advances towards a more comprehensive understanding of the critical role of this interaction in modulating p53’s levels and activity, therefore helping the system find a reasonable equilibrium between the beneficial and the detrimental effects of its activity. This crosstalk re-establishes the physiological balance towards cell proliferation and survival instead of towards cell death, after stressors of a broad nature. Accordingly, cells bearing mutations in the csb gene are unable to re-establish this physiological balance and to properly respond to some stress stimuli and undergo massive apoptosis.",
+    "journal": "Aging",
+    "year": "2012",
+    "authors": [
+      "Frontini M",
+      "Proietti-De-Santis L"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22383384/"
+  },
+  {
+    "pmid": "8917731",
+    "title": "The p53 tumour suppressor gene: a mediator of a G1 growth arrest and of apoptosis.",
+    "abstract": "The tumour suppressor gene p53 plays a major role in the protection of cells from DNA damage. Activation of the protein in response to irradiation or genotoxic agents, and possibly by other signals, results in growth arrest at the G1 phase of the cell cycle or in apoptosis. While it has been shown that the ability of p53 to function as a sequence-specific transcriptional activator is necessary for the induction of growth arrest, the mechanism of p53-mediated apoptosis is not yet clear. It appears that under some conditions activation of the G1 checkpoint will prevent apoptosis, but the cellular environment may alter the result of p53 activation towards cell death. p53 may also directly induce apoptosis through several pathways, which may be transcriptionally dependent or independent. The outcome-a G1 arrest or apoptosis-will depend on a complex network of regulatory signals.",
+    "journal": "Experientia",
+    "year": "1996",
+    "authors": [
+      "Yonish-Rouach E"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8917731/"
+  },
+  {
+    "pmid": "27384591",
+    "title": "Status quo of p53 in the treatment of tumors.",
+    "abstract": "The p53 gene is pivotal for oncogenesis in a combination of mutations in oncogenes and antioncogenes. The ubiquitous loss of the p53 pathway in human cancers has generated considerable interest in developing p53-targeted cancer therapies, but current ideas and approaches targeting p53 are conflicting. Current researches focus on cancer-selective drugs with therapeutic strategies that both activate and inhibit p53. As p53 is ubiquitously lost in human cancers, the strategy of exogenous p53 addition is reasonable. However, p53 acts not equally in all cell types; thus, individualized p53 therapy is the direction of future research. To clarify the controversies on p53 for improvement of future antitumor studies, the review focuses on the available technological protocols, including their advantages and limitations in terms of future therapeutic use of p53 in the management of tumors.",
+    "journal": "Anti-cancer drugs",
+    "year": "2016",
+    "authors": [
+      "Guan YS",
+      "He Q",
+      "Zou Q"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27384591/"
+  },
+  {
+    "pmid": "29099487",
+    "title": "Why are there hotspot mutations in the TP53 gene in human cancers?",
+    "abstract": "The p53 gene contains homozygous mutations in ~50-60% of human cancers. About 90% of these mutations encode missense mutant proteins that span ~190 different codons localized in the DNA-binding domain of the gene and protein. These mutations produce a protein with a reduced capacity to bind to a specific DNA sequence that regulates the p53 transcriptional pathway. Eight of these mutations are localized in codons that account for ~28% of the total p53 mutations and these alleles appear to be selected for preferentially in human cancers of many tissue types. This article explores the question 'Why are there hotspot mutations in the p53 gene in human cancers?' Four possible reasons for this are considered; (1) the hotspot mutant alleles produce a protein that has a highly altered structure, (2) environmental mutagens produce allele-specific changes in the p53 gene, (3) these mutations arise at selected sites in the gene due to a specific DNA sequence, such as a methylated cytosine residue in a CpG dinucleotide, which has a higher mutation rate changing C to T nucleotides, (4) along with the observed change in mutant p53 proteins, which produce a loss of function (DNA binding and transcription), some mutant proteins have an allele-specific gain of function that promotes cancer. Evidence is presented that demonstrates the first three possibilities all contribute some property to this list of hotspot mutations. The fourth possibility remains to be tested.",
+    "journal": "Cell death and differentiation",
+    "year": "2018",
+    "authors": [
+      "Baugh EH",
+      "Ke H",
+      "Levine AJ",
+      "Bonneau RA",
+      "Chan CS"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29099487/"
+  },
+  {
+    "pmid": "1631137",
+    "title": "Germ-line mutations of the p53 tumor suppressor gene in patients with high risk for cancer inactivate the p53 protein.",
+    "abstract": "Germ-line mutations in the p53 tumor suppressor gene have been observed in patients with Li-Fraumeni syndrome, brain tumors, second malignancies, and breast cancers. It is unclear whether all of these mutations have inactivated p53 and thereby provide an increased risk for cancer. Therefore, it is necessary to establish the biological significance of these germ-line mutations by the functional and structural analysis of the resulting mutant p53 proteins. We analyzed the ability of seven germ-line mutant proteins observed in patients with Li-Fraumeni syndrome, second primary neoplasms, or familial breast cancer to block the growth of malignant cells and compared the structural properties of the mutant proteins to that of the wild-type protein. Six of seven missense mutations disrupted the growth inhibitory properties and structure of the wild-type protein. One germ-line mutation retained the features of the wild-type p53. Genetic analysis of the breast cancer family in which this mutation was observed indicated that this germ-line mutation was not associated with the development of cancer. These results demonstrate that germ-line p53 mutations observed in patients with Li-Fraumeni syndrome and with second malignancies have inactivated the p53 tumor suppressor gene. The inability of the germ-line p53 mutants to block the growth of malignant cells can explain why patients with these germ-line mutations have an increased risk for cancer. The observation of a functionally silent germ-line mutation indicates that, before associating a germ-line tumor suppressor gene mutation with cancer risk, it is prudent to consider its functional significance.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": "1992",
+    "authors": [
+      "Frebourg T",
+      "Kassel J",
+      "Lam KT",
+      "Gryka MA",
+      "Barbier N",
+      "Andersen TI",
+      "Børresen AL",
+      "Friend SH"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/1631137/"
+  },
+  {
+    "pmid": "8274734",
+    "title": "Alterations of the p53 tumor suppressor gene in diffuse large cell lymphomas with translocations of the c-MYC and BCL-2 proto-oncogenes.",
+    "abstract": "Diffuse large cell lymphomas are aggressive tumors of B-cell origin. In some cases they arise from low-grade follicular lymphomas carrying the t(14;18) translocation, an event that leads to the overexpression of the BCL-2 gene product. More frequently, however, they lack the t(14;18) translocation. Rearrangements of the c-MYC proto-oncogene and mutations of the p53 tumor suppressor gene have also been documented in these lymphomas. This study examines the extent to which alterations in the BCL-2, c-MYC, and p53 genes co-exist within individual lymphomas. Eight diffuse large cell lymphoma cell lines and 11 diffuse large cell lymphoma tumors were assessed for genetic alterations in these three genes. Our results indicate that there is a heterogeneity in the oncogene/suppressor gene profile among diffuse large cell lymphomas. Two cell lines and one tumor carried alterations in all three genes, one cell line carried alterations of c-MYC and p53, and one primary tumor and one cell line carried p53 mutations and the t(14;18). Single alterations of BCL-2 and p53 were also observed. Another cell line had no alterations in any of these genes. The heterogeneity indicates that varied mechanisms may be involved in the generation of diffuse large cell lymphomas.",
+    "journal": "Blood",
+    "year": "1994",
+    "authors": [
+      "Farrugia MM",
+      "Duan LJ",
+      "Reis MD",
+      "Ngan BY",
+      "Berinstein NL"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8274734/"
+  },
+  {
+    "pmid": "19602056",
+    "title": "Mutations in p53, p53 protein overexpression and breast cancer survival.",
+    "abstract": "p53 is an important tumour suppressor gene that encodes p53 protein, a molecule involved in cell cycle regulation and has been inconsistently linked to breast cancer survival. Using archived tumour tissue from a population-based sample of 859 women diagnosed with breast cancer between 1996 and 1997, we determined p53 mutations in exons 5-8 and p53 protein overexpression. We examined the association of p53 mutations with overexpression and selected tumour clinical parameters. We assessed whether either p53 marker was associated with survival through 2002, adjusting for other tumour markers and prognostic factors. The prevalence of protein overexpression in the tumour was 36% (307/859) and of any p53 mutation was 15% (128/859). p53 overexpression was positively associated with the presence of any p53 mutation (odds ratio [OR]= 2.2, 95% confidence interval [CI]= 1.5-3.2), particularly missense mutations (ER = 7.0, 95% CI = 3.6-13.7). Negative oestrogen and progesterone receptor (ER/PR) status was positively associated with both p53 protein overexpression (= 2.6, 95% CI = 1.7-4.0) and p53 mutation (OR = 3.9, 95% CI = 2.4-6.5). Any p53 mutation and missense mutations, but not p53 protein overexpression, were associated with breast cancer-specific mortality (hazard ratio [HR]= 1.7, 95% CI = 1.0-2.8; HR = 2.0, 95% CI = 1.1-3.6, respectively) and all-cause mortality (HR = 1.5, 95% CI = 1.0-2.4; HR = 2.0, 95% CI = 1.2-3.4, respectively); nonsense mutations were associated only with breast cancer-specific mortality (HR = 3.0, 95% CI = 1.1-8.1). These associations however did not remain after adjusting for ER/PR status. Thus, in this population-based cohort of women with breast cancer, although p53 protein overexpression and p53 mutations were associated with each other, neither independently impacted breast cancer-specific or all-causing mortality, after considering ER/PR status.",
+    "journal": "Journal of cellular and molecular medicine",
+    "year": "2009",
+    "authors": [
+      "Rossner P",
+      "Gammon MD",
+      "Zhang YJ",
+      "Terry MB",
+      "Hibshoosh H",
+      "Memeo L",
+      "Mansukhani M",
+      "Long CM",
+      "Garbowski G",
+      "Agrawal M",
+      "Kalra TS",
+      "Gaudet MM",
+      "Teitelbaum SL",
+      "Neugut AI",
+      "Santella RM"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19602056/"
+  },
+  {
+    "pmid": "17671971",
+    "title": "The p53 mutation \"gradient effect\" and its clinical implications.",
+    "abstract": "The p53 tumor suppressor-signaling pathway is inactivated in most human cancers. Depending on how p53 is targeted during tumorigenesis impacts whether partial or full tumor suppressor activity is lost. The degree of remaining p53 activity, if any, intuitively impacts the tumor phenotype. This review focuses on recent findings from human cancer studies and genetically engineered mouse models to highlight a p53 functional \"gradient effect\" and its clinical implications.",
+    "journal": "Journal of cellular physiology",
+    "year": "2007",
+    "authors": [
+      "Zambetti GP"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17671971/"
+  },
+  {
+    "pmid": "9769945",
+    "title": "A question of life or death: the p53 tumor suppressor gene.",
+    "abstract": "The tumor suppressor gene p53 plays a major role in the protection of cell from DNA damage. Activation of the protein in response to irradiation or genotoxic agents, and possibly by other signals, results in growth arrest at the G1 phase of the cell cycle or in apoptosis. While it has been shown that the ability of p53 to function as a sequence-specific transcriptional activator is necessary for the induction of growth arrest, the mechanism of p53-mediated apoptosis is not clear yet. It appears that under some conditions activation of the G1 checkpoint will prevent apoptosis, but cellular environment may alter the result of p53 activation towards cell death. p53 may also directly induce apoptosis through several pathways, which may be transcriptionally dependent or independent. The outcome--a G1 arrest or apoptosis--will depend on a complex network of regulatory signals.",
+    "journal": "Pathologie-biologie",
+    "year": "1997",
+    "authors": [
+      "Yonish-Rouach E"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9769945/"
+  },
+  {
+    "pmid": "14681700",
+    "title": "Restoration of p53 tumor-suppressor activity in human tumor cells in vitro and in their xenografts in vivo by recombinant avian adenovirus CELO-p53.",
+    "abstract": "Human adenovirus (Ad) vectors are extensively used as gene transfer vehicles. However, a serious obstacle for the use of these vectors in clinical applications is due to pre-existing immunity to human Ads affecting the efficacy of gene transfer. One of the approaches to circumvent host immune response could be the development of vectors based on non-human Ads that are able to transduce genes into human cells. In this study, we explored the possibility of using avian Ad CELO vectors as gene-transfer vehicles. For this purpose, we constructed a set of recombinant CELO viruses and demonstrated that they are able to deliver transgenes into various organs on the background of pre-existing immunity to human Ad5. The created CELO-p53 vector restored the function of the p53 tumor suppressor both in cultured human tumor cells in vitro and in their xenografts in nude mice in vivo. The latter effect was accompanied by inhibition of tumor growth. Noteworthily, the delivery of CELO-p53 led to activation of p53 target genes in cells showing inactivation of endogenous p53 by three different mechanisms, that is, in the human epidermoid carcinoma A431, lung adenocarcinoma H1299, and cervical carcinoma HeLa.",
+    "journal": "Gene therapy",
+    "year": "2004",
+    "authors": [
+      "Logunov DY",
+      "Ilyinskaya GV",
+      "Cherenova LV",
+      "Verhovskaya LV",
+      "Shmarov MM",
+      "Chumakov PM",
+      "Kopnin BP",
+      "Naroditsky BS"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/14681700/"
+  },
+  {
+    "pmid": "16869788",
+    "title": "Exploiting the p53 pathway for the diagnosis and therapy of human cancer.",
+    "abstract": "After 26 years of research and the publication of 38,000 papers, our knowledge of the p53 human tumor suppressor protein is impressive. Over half of all human cancers have mutations in the p53 gene, and the p53 pathway in animal models dramatically regulates the cellular response to ionizing radiation and chemotherapeutic drugs. The ability to translate this knowledge to patient benefit is, however, still in its infancy. The many approaches to determining the status of the p53 pathway in human tumor biopsy samples and the attempts to develop p53-selective therapies are described. A great deal of our knowledge of the p53 system remains incomplete, and the issue of how to best conduct translational research in cancer is debated using the difficulties around the p53 system as an example. The need for a more unified and coordinated approach to critical technological developments and clinical trial protocols is discussed.",
+    "journal": "Cold Spring Harbor symposia on quantitative biology",
+    "year": "2005",
+    "authors": [
+      "Lane DP"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16869788/"
+  }
+]
