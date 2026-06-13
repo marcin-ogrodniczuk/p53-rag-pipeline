@@ -1,11 +1,12 @@
-"""Thin Ollama HTTP client for embeddings and chat (no SDK dependency)."""
+"""Thin Ollama HTTP client for embeddings and chat"""
 
+# bridge the code to ollama which hosts both nomic embed text and chat model illama3.1
 import requests
 
 import config
 
 
-def embed(texts: list[str]) -> list[list[float]]:
+def embed(texts: list[str]) -> list[list[float]]: # this is the embedding step
     """Return embedding vectors for a list of texts using the Ollama embed API."""
     vectors = []
     for text in texts:
