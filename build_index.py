@@ -7,7 +7,8 @@ import chromadb
 import config
 import ollama_client
 
-
+################################ stage A chunking 
+# code is doing the chunking, not the embedding model 
 def chunk_text(text: str, size: int, overlap: int) -> list[str]:
     """Split text into overlapping character windows, preferring sentence breaks."""
     if len(text) <= size:
@@ -27,7 +28,7 @@ def chunk_text(text: str, size: int, overlap: int) -> list[str]:
         start = end - overlap
     return [c for c in chunks if c]
 
-
+#########part of STAGE c, store in ChromaDB 
 def get_collection(reset: bool = False):
     client = chromadb.PersistentClient(path=str(config.CHROMA_DIR))
     if reset:
@@ -39,8 +40,9 @@ def get_collection(reset: bool = False):
         name=config.COLLECTION_NAME,
         metadata={"hnsw:space": "cosine"},
     )
-
-
+######################################### STAGE B assemble + embed 
+# this function is doing the embedding, for each abstract it bundles title + abstract, chunks it, and builds 3 parallel lists 
+# ids, documents, metadatas
 def main():
     papers = json.loads(config.PAPERS_FILE.read_text())
     print(f"Loaded {len(papers)} papers.")
@@ -66,13 +68,15 @@ def main():
 
     print(f"Created {len(documents)} chunks. Embedding via Ollama ({config.EMBED_MODEL})...")
 
-    # Embed in batches with progress output.
+    # embeds all chunks in batches of 32 by calling the ollama_clinet.embed(), where 
     batch = 32
     embeddings = []
     for i in range(0, len(documents), batch):
         embeddings.extend(ollama_client.embed(documents[i:i + batch]))
         print(f"  embedded {min(i + batch, len(documents))}/{len(documents)} chunks")
 
+
+    ########################## STAGE C store in chromadb 
     collection.add(ids=ids, documents=documents, embeddings=embeddings, metadatas=metadatas)
     print(f"Indexed {collection.count()} chunks into ChromaDB at {config.CHROMA_DIR}")
 
