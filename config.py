@@ -2,32 +2,32 @@
 
 from pathlib import Path
 
-# --- Paths ---
+# --- paths ---
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 PAPERS_FILE = DATA_DIR / "papers.json"
 CHROMA_DIR = ROOT / "chroma_db"
 
-# --- PubMed search ---
+# --- pubmed search ---
 PUBMED_QUERY = "p53 tumor suppressor"
 NUM_PAPERS = 100
-# NCBI asks that you identify your tool/email for E-utilities. Polite, not required.
+# NCBI identify tool/email for E-utilities
 ENTREZ_EMAIL = "user@example.com"
 ENTREZ_TOOL = "p53-rag-pipeline"
-# Set an NCBI API key here to raise the rate limit from 3 to 10 req/s (optional).
+
 NCBI_API_KEY = ""
 
 # --- Ollama ---
 OLLAMA_HOST = "http://localhost:11434"
-EMBED_MODEL = "nomic-embed-text"
-CHAT_MODEL = "llama3.1:8b"
+EMBED_MODEL = "nomic-embed-text" #embedding model
+CHAT_MODEL = "llama3.1:8b" # chatbot model
 
-# --- Chunking ---
+# --- chunking ---
 CHUNK_SIZE = 1200       # characters
-CHUNK_OVERLAP = 200     # characters
+CHUNK_OVERLAP = 200     # characters, produces 154 chunks from 100 abstracts 
 
-# --- Retrieval ---
-COLLECTION_NAME = "p53_papers"
+# --- retrieval ---
+COLLECTION_NAME = "p53_papers" # name of chromaDB table 
 TOP_K = 5
 
 DATA_DIR.mkdir(exist_ok=True)
