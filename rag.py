@@ -19,17 +19,17 @@ def get_collection():
     client = chromadb.PersistentClient(path=str(config.CHROMA_DIR))
     return client.get_collection(config.COLLECTION_NAME)
 
-
+# retrieve from ChromaDB 
 def retrieve(question: str, top_k: int = config.TOP_K) -> list[dict]:
     """Embed the question and return the top_k most similar chunks with metadata."""
     collection = get_collection()
-    q_emb = ollama_client.embed_one(question)
-    res = collection.query(
+    q_emb = ollama_client.embed_one(question) # embeds the question with the same model so it lands in the same 768-dim space
+    res = collection.query( # cosign math 
         query_embeddings=[q_emb],
         n_results=top_k,
         include=["documents", "metadatas", "distances"],
     )
-    hits = []
+    hits = [] # zips the results into a clean list 
     for doc, meta, dist in zip(
         res["documents"][0], res["metadatas"][0], res["distances"][0]
     ):
