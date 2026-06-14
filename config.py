@@ -1,4 +1,4 @@
-"""Shared configuration for the p53 RAG pipeline."""
+"""configuration for the p53 RAG pipeline."""
 
 from pathlib import Path
 
